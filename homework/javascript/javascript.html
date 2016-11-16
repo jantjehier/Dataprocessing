@@ -373,10 +373,13 @@
         </textarea>
         <canvas id="canvas" width="500" height ="500"></canvas>
         <script>
+            // getting the information from the textarea and splitting it
             var info = document.getElementById("rawdata").value.split("\n") + '';
             var split = info.split(",");
+            // making the arrays 
             var arrayDate = [],
                 arrayMaxtemp = [];
+            // making the dates readable
             for (var i = 0; i < split.length; i++)
               if ((i + 2) % 2 == 0)
               {
@@ -389,12 +392,15 @@
               {
                 arrayMaxtemp.push(split[i]);
               }
+          // calculating the max and min temperatures and putting them in an array.
           var max = Math.max.apply(Math, arrayMaxtemp),
               min = Math.min.apply(Math, arrayMaxtemp),
               domain = [min, max],
+              // adding the range and putting it in an array
               minrange = 0,
               maxrange = 400,
               range = [minrange, maxrange];
+          // a function to transform the data to places in the visualisation
           function createTransform(domain, range)
           {
             var alpha = (domain[1] - domain[0]) / (range[1] - range[0]);
@@ -404,7 +410,7 @@
               return alpha * x + beta;
             };
           }
-
+          // calculating the time in days
           var start = Math.round(arrayDate[0] / (1000*60*60*24*365));
           var end = Math.round(arrayDate[364] / (1000*60*60*24*365));
           day = [];
@@ -413,13 +419,14 @@
             var dayvar = end - start + k;
             day.push(dayvar);
           }
-
+          // transforming the days and temperatures
           var transformday = createTransform([day[0], day[364]], [minrange, maxrange]);
           var transformtemp = createTransform([min, max], [minrange, maxrange]);
-
+          // making the canvas
           var canvas = document.getElementById('canvas');
           var ctx = canvas.getContext('2d');
-
+          
+          // adding the lines of the graph
           ctx.beginPath();
           ctx.moveTo(transformday(day[0]), transformtemp(arrayMaxtemp[0]));
           for (m = 0; m < (day.length - 1); m++)
@@ -427,7 +434,8 @@
             ctx.lineTo(transformday(day[m]), transformtemp(arrayMaxtemp[m]));
           }
           ctx.stroke();
-
+          
+          // adding the axis
           ctx.beginPath();
           ctx.moveTo(transformday(day[0]), 50)
           ctx.lineTo(transformday(day[0]),400)
@@ -448,7 +456,7 @@
             }
           }
           ctx.stroke();
-
+          // the data on the x
           ctx.font = "8px serif";
           ctx.fillText('januari' ,transformday(day[0]) , 420);
           ctx.fillText('februari' ,transformday(day[30]) , 420);
@@ -463,7 +471,8 @@
           ctx.fillText('november',transformday(day[300]) , 420);
           ctx.fillText('december',transformday(day[330]) , 420);
           ctx.fillText('december',transformday(day[365]) , 420);
-
+          
+          // data on the y
           for (n = -260; n < (day.length - 1); n++)
           {
             if(n == 0 || n % 30 == 0)
@@ -474,7 +483,7 @@
               }
             }
           }
-
+          // adding the other text
           ctx.font = "25px serif";
           ctx.fillText("Temperatures in the Bilt (2014) ",transformday(day[0]) , 40);
           ctx.font = "15px serif";
