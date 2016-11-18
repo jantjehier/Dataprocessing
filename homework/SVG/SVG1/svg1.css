@@ -1,0 +1,25 @@
+/* Name: Jan Maarten de Vries Student number: 11408731 */
+/* continent color */
+.continent
+{
+
+}
+
+/* changing the color to red and the stroke to black */
+#se.landxx.se.eu
+{
+  fill: red;
+  stroke: black;
+}
+
+#de.landxx.de.eu
+{
+  fill: blue;
+  stroke: black;
+}
+
+#dk.landxx.dk.eu
+{
+  fill: purple;
+  stroke: black;
+}
