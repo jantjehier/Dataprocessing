@@ -1,0 +1,62 @@
+/*Jan Maarten de Vries Student number: 11408731*/
+
+/* centering text*/
+h1 {
+    text-align: center;
+}
+
+h5  {
+    text-align: center;
+}
+
+/* d3 tip element */
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
+
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+/* making the bars black*/
+.bar {
+  fill: black
+}
+
+/* change color when hover over bars*/
+.bar:hover {
+  fill: orangered ;
+}
+
+/* change axis textsize*/
+.axis text {
+				font-family: sans-serif;
+				font-size: 12px;
+}
+
+/* change axis*/
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
