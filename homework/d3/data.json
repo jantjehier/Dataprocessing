@@ -1,0 +1,210 @@
+[
+    {
+        "country": "Monaco", 
+        "population": "18369"
+    }, 
+    {
+        "country": "Gibraltar", 
+        "population": "4328"
+    }, 
+    {
+        "country": "Vatican City", 
+        "population": "2045"
+    }, 
+    {
+        "country": "Malta", 
+        "population": "1260"
+    }, 
+    {
+        "country": "Guernsey", 
+        "population": "990"
+    }, 
+    {
+        "country": "Jersey", 
+        "population": "774"
+    }, 
+    {
+        "country": "San Marino", 
+        "population": "455"
+    }, 
+    {
+        "country": "Netherlands", 
+        "population": "393"
+    }, 
+    {
+        "country": "Belgium", 
+        "population": "337"
+    }, 
+    {
+        "country": "United Kingdom", 
+        "population": "269"
+    }, 
+    {
+        "country": "Germany", 
+        "population": "233"
+    }, 
+    {
+        "country": "Switzerland", 
+        "population": "207"
+    }, 
+    {
+        "country": "Liechtenstein", 
+        "population": "205"
+    }, 
+    {
+        "country": "Italy", 
+        "population": "192"
+    }, 
+    {
+        "country": "Luxembourg", 
+        "population": "173"
+    }, 
+    {
+        "country": "Andorra", 
+        "population": "146"
+    }, 
+    {
+        "country": "Moldova", 
+        "population": "131"
+    }, 
+    {
+        "country": "Czech Republic", 
+        "population": "130"
+    }, 
+    {
+        "country": "Isle of Man", 
+        "population": "129"
+    }, 
+    {
+        "country": "Denmark", 
+        "population": "125"
+    }, 
+    {
+        "country": "Poland", 
+        "population": "124"
+    }, 
+    {
+        "country": "Albania", 
+        "population": "123"
+    }, 
+    {
+        "country": "Cyprus", 
+        "population": "117"
+    }, 
+    {
+        "country": "Azerbaijan", 
+        "population": "113"
+    }, 
+    {
+        "country": "Slovakia", 
+        "population": "111"
+    }, 
+    {
+        "country": "France", 
+        "population": "111"
+    }, 
+    {
+        "country": "Portugal", 
+        "population": "109"
+    }, 
+    {
+        "country": "Armenia", 
+        "population": "108"
+    }, 
+    {
+        "country": "Hungary", 
+        "population": "108"
+    }, 
+    {
+        "country": "Serbia", 
+        "population": "97"
+    }, 
+    {
+        "country": "Austria", 
+        "population": "97"
+    }, 
+    {
+        "country": "Slovenia", 
+        "population": "95"
+    }, 
+    {
+        "country": "Spain", 
+        "population": "92"
+    }, 
+    {
+        "country": "Greece", 
+        "population": "81"
+    }, 
+    {
+        "country": "Macedonia", 
+        "population": "81"
+    }, 
+    {
+        "country": "Romania", 
+        "population": "80"
+    }, 
+    {
+        "country": "Croatia", 
+        "population": "78"
+    }, 
+    {
+        "country": "Bosnia and Herzegovina", 
+        "population": "78"
+    }, 
+    {
+        "country": "Ukraine", 
+        "population": "76"
+    }, 
+    {
+        "country": "Georgia", 
+        "population": "71"
+    }, 
+    {
+        "country": "Bulgaria", 
+        "population": "69"
+    }, 
+    {
+        "country": "Ireland", 
+        "population": "65"
+    }, 
+    {
+        "country": "Belarus", 
+        "population": "50"
+    }, 
+    {
+        "country": "Montenegro", 
+        "population": "48"
+    }, 
+    {
+        "country": "Lithuania", 
+        "population": "44"
+    }, 
+    {
+        "country": "Latvia", 
+        "population": "37"
+    }, 
+    {
+        "country": "Faroe Islands", 
+        "population": "33"
+    }, 
+    {
+        "country": "Estonia", 
+        "population": "28"
+    }, 
+    {
+        "country": "Sweden", 
+        "population": "20"
+    }, 
+    {
+        "country": "Finland", 
+        "population": "16"
+    }, 
+    {
+        "country": "Norway", 
+        "population": "13"
+    }, 
+    {
+        "country": "Russia", 
+        "population": "8"
+    }
+]
