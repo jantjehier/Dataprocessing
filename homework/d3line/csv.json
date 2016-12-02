@@ -1,0 +1,5548 @@
+{
+    "points": [
+        {
+            "windsnelheid": "19", 
+            "vochtigheid": "99", 
+            "jaar": "20151101", 
+            "temperatuur": "64", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "24", 
+            "vochtigheid": "100", 
+            "jaar": "20151102", 
+            "temperatuur": "62", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "15", 
+            "vochtigheid": "89", 
+            "jaar": "20151103", 
+            "temperatuur": "87", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "36", 
+            "vochtigheid": "83", 
+            "jaar": "20151104", 
+            "temperatuur": "120", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "93", 
+            "jaar": "20151105", 
+            "temperatuur": "132", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "59", 
+            "vochtigheid": "94", 
+            "jaar": "20151106", 
+            "temperatuur": "150", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "68", 
+            "vochtigheid": "90", 
+            "jaar": "20151107", 
+            "temperatuur": "160", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "44", 
+            "vochtigheid": "91", 
+            "jaar": "20151108", 
+            "temperatuur": "126", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "82", 
+            "vochtigheid": "86", 
+            "jaar": "20151109", 
+            "temperatuur": "132", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "89", 
+            "vochtigheid": "91", 
+            "jaar": "20151110", 
+            "temperatuur": "146", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "69", 
+            "vochtigheid": "90", 
+            "jaar": "20151111", 
+            "temperatuur": "127", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "47", 
+            "vochtigheid": "87", 
+            "jaar": "20151112", 
+            "temperatuur": "130", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "80", 
+            "vochtigheid": "75", 
+            "jaar": "20151113", 
+            "temperatuur": "111", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "76", 
+            "vochtigheid": "80", 
+            "jaar": "20151114", 
+            "temperatuur": "94", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "110", 
+            "vochtigheid": "86", 
+            "jaar": "20151115", 
+            "temperatuur": "141", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "76", 
+            "vochtigheid": "88", 
+            "jaar": "20151116", 
+            "temperatuur": "120", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "74", 
+            "vochtigheid": "91", 
+            "jaar": "20151117", 
+            "temperatuur": "128", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "106", 
+            "vochtigheid": "79", 
+            "jaar": "20151118", 
+            "temperatuur": "123", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "78", 
+            "vochtigheid": "80", 
+            "jaar": "20151119", 
+            "temperatuur": "108", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "50", 
+            "vochtigheid": "80", 
+            "jaar": "20151120", 
+            "temperatuur": "74", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "44", 
+            "vochtigheid": "88", 
+            "jaar": "20151121", 
+            "temperatuur": "45", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "80", 
+            "jaar": "20151122", 
+            "temperatuur": "37", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "37", 
+            "vochtigheid": "82", 
+            "jaar": "20151123", 
+            "temperatuur": "38", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "81", 
+            "vochtigheid": "90", 
+            "jaar": "20151124", 
+            "temperatuur": "41", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "30", 
+            "vochtigheid": "90", 
+            "jaar": "20151125", 
+            "temperatuur": "58", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "20", 
+            "vochtigheid": "89", 
+            "jaar": "20151126", 
+            "temperatuur": "41", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "58", 
+            "vochtigheid": "93", 
+            "jaar": "20151127", 
+            "temperatuur": "47", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "81", 
+            "vochtigheid": "83", 
+            "jaar": "20151128", 
+            "temperatuur": "64", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "91", 
+            "vochtigheid": "83", 
+            "jaar": "20151129", 
+            "temperatuur": "96", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "83", 
+            "vochtigheid": "83", 
+            "jaar": "20151130", 
+            "temperatuur": "85", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "43", 
+            "vochtigheid": "90", 
+            "jaar": "20151201", 
+            "temperatuur": "87", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "63", 
+            "vochtigheid": "82", 
+            "jaar": "20151202", 
+            "temperatuur": "101", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "59", 
+            "vochtigheid": "81", 
+            "jaar": "20151203", 
+            "temperatuur": "93", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "76", 
+            "vochtigheid": "85", 
+            "jaar": "20151204", 
+            "temperatuur": "90", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "102", 
+            "vochtigheid": "79", 
+            "jaar": "20151205", 
+            "temperatuur": "78", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "90", 
+            "vochtigheid": "87", 
+            "jaar": "20151206", 
+            "temperatuur": "101", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "94", 
+            "jaar": "20151207", 
+            "temperatuur": "104", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "58", 
+            "vochtigheid": "88", 
+            "jaar": "20151208", 
+            "temperatuur": "99", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "53", 
+            "vochtigheid": "86", 
+            "jaar": "20151209", 
+            "temperatuur": "71", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "90", 
+            "vochtigheid": "84", 
+            "jaar": "20151210", 
+            "temperatuur": "62", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "69", 
+            "vochtigheid": "88", 
+            "jaar": "20151211", 
+            "temperatuur": "69", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "68", 
+            "vochtigheid": "90", 
+            "jaar": "20151212", 
+            "temperatuur": "68", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "29", 
+            "vochtigheid": "87", 
+            "jaar": "20151213", 
+            "temperatuur": "66", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "23", 
+            "vochtigheid": "93", 
+            "jaar": "20151214", 
+            "temperatuur": "70", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "23", 
+            "vochtigheid": "94", 
+            "jaar": "20151215", 
+            "temperatuur": "63", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "46", 
+            "vochtigheid": "96", 
+            "jaar": "20151216", 
+            "temperatuur": "109", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "57", 
+            "vochtigheid": "88", 
+            "jaar": "20151217", 
+            "temperatuur": "129", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "56", 
+            "vochtigheid": "89", 
+            "jaar": "20151218", 
+            "temperatuur": "114", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "61", 
+            "vochtigheid": "91", 
+            "jaar": "20151219", 
+            "temperatuur": "122", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "64", 
+            "vochtigheid": "82", 
+            "jaar": "20151220", 
+            "temperatuur": "117", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "87", 
+            "vochtigheid": "87", 
+            "jaar": "20151221", 
+            "temperatuur": "97", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "95", 
+            "vochtigheid": "89", 
+            "jaar": "20151222", 
+            "temperatuur": "123", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "75", 
+            "vochtigheid": "83", 
+            "jaar": "20151223", 
+            "temperatuur": "97", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "70", 
+            "vochtigheid": "85", 
+            "jaar": "20151224", 
+            "temperatuur": "93", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "63", 
+            "vochtigheid": "88", 
+            "jaar": "20151225", 
+            "temperatuur": "87", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "93", 
+            "vochtigheid": "84", 
+            "jaar": "20151226", 
+            "temperatuur": "126", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "73", 
+            "vochtigheid": "86", 
+            "jaar": "20151227", 
+            "temperatuur": "113", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "83", 
+            "jaar": "20151228", 
+            "temperatuur": "90", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "36", 
+            "vochtigheid": "84", 
+            "jaar": "20151229", 
+            "temperatuur": "77", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "59", 
+            "vochtigheid": "85", 
+            "jaar": "20151230", 
+            "temperatuur": "72", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "67", 
+            "vochtigheid": "82", 
+            "jaar": "20151231", 
+            "temperatuur": "74", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "34", 
+            "vochtigheid": "96", 
+            "jaar": "20160101", 
+            "temperatuur": "46", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "54", 
+            "vochtigheid": "92", 
+            "jaar": "20160102", 
+            "temperatuur": "45", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "54", 
+            "vochtigheid": "91", 
+            "jaar": "20160103", 
+            "temperatuur": "61", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "42", 
+            "vochtigheid": "96", 
+            "jaar": "20160104", 
+            "temperatuur": "28", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "36", 
+            "vochtigheid": "97", 
+            "jaar": "20160105", 
+            "temperatuur": "30", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "47", 
+            "vochtigheid": "96", 
+            "jaar": "20160106", 
+            "temperatuur": "-9", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "63", 
+            "vochtigheid": "91", 
+            "jaar": "20160107", 
+            "temperatuur": "41", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "62", 
+            "vochtigheid": "80", 
+            "jaar": "20160108", 
+            "temperatuur": "53", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "48", 
+            "vochtigheid": "91", 
+            "jaar": "20160109", 
+            "temperatuur": "51", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "66", 
+            "vochtigheid": "85", 
+            "jaar": "20160110", 
+            "temperatuur": "65", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "41", 
+            "vochtigheid": "93", 
+            "jaar": "20160111", 
+            "temperatuur": "47", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "61", 
+            "vochtigheid": "91", 
+            "jaar": "20160112", 
+            "temperatuur": "54", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "44", 
+            "vochtigheid": "88", 
+            "jaar": "20160113", 
+            "temperatuur": "42", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "59", 
+            "vochtigheid": "93", 
+            "jaar": "20160114", 
+            "temperatuur": "27", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "32", 
+            "vochtigheid": "91", 
+            "jaar": "20160115", 
+            "temperatuur": "19", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "58", 
+            "vochtigheid": "86", 
+            "jaar": "20160116", 
+            "temperatuur": "22", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "26", 
+            "vochtigheid": "80", 
+            "jaar": "20160117", 
+            "temperatuur": "-5", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "22", 
+            "vochtigheid": "80", 
+            "jaar": "20160118", 
+            "temperatuur": "-27", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "88", 
+            "jaar": "20160119", 
+            "temperatuur": "-26", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "20", 
+            "vochtigheid": "91", 
+            "jaar": "20160120", 
+            "temperatuur": "8", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "25", 
+            "vochtigheid": "97", 
+            "jaar": "20160121", 
+            "temperatuur": "-12", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "87", 
+            "jaar": "20160122", 
+            "temperatuur": "7", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "96", 
+            "jaar": "20160123", 
+            "temperatuur": "57", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "55", 
+            "vochtigheid": "97", 
+            "jaar": "20160124", 
+            "temperatuur": "73", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "53", 
+            "vochtigheid": "87", 
+            "jaar": "20160125", 
+            "temperatuur": "107", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "85", 
+            "vochtigheid": "87", 
+            "jaar": "20160126", 
+            "temperatuur": "88", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "105", 
+            "vochtigheid": "90", 
+            "jaar": "20160127", 
+            "temperatuur": "106", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "62", 
+            "vochtigheid": "77", 
+            "jaar": "20160128", 
+            "temperatuur": "61", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "109", 
+            "vochtigheid": "90", 
+            "jaar": "20160129", 
+            "temperatuur": "82", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "87", 
+            "vochtigheid": "82", 
+            "jaar": "20160130", 
+            "temperatuur": "72", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "55", 
+            "vochtigheid": "87", 
+            "jaar": "20160131", 
+            "temperatuur": "59", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "101", 
+            "vochtigheid": "87", 
+            "jaar": "20160201", 
+            "temperatuur": "110", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "99", 
+            "vochtigheid": "69", 
+            "jaar": "20160202", 
+            "temperatuur": "84", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "55", 
+            "vochtigheid": "82", 
+            "jaar": "20160203", 
+            "temperatuur": "47", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "34", 
+            "vochtigheid": "91", 
+            "jaar": "20160204", 
+            "temperatuur": "42", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "57", 
+            "vochtigheid": "92", 
+            "jaar": "20160205", 
+            "temperatuur": "81", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "68", 
+            "vochtigheid": "82", 
+            "jaar": "20160206", 
+            "temperatuur": "93", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "92", 
+            "vochtigheid": "77", 
+            "jaar": "20160207", 
+            "temperatuur": "82", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "125", 
+            "vochtigheid": "83", 
+            "jaar": "20160208", 
+            "temperatuur": "79", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "68", 
+            "vochtigheid": "84", 
+            "jaar": "20160209", 
+            "temperatuur": "52", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "57", 
+            "vochtigheid": "87", 
+            "jaar": "20160210", 
+            "temperatuur": "47", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "86", 
+            "jaar": "20160211", 
+            "temperatuur": "30", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "26", 
+            "vochtigheid": "95", 
+            "jaar": "20160212", 
+            "temperatuur": "16", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "54", 
+            "vochtigheid": "93", 
+            "jaar": "20160213", 
+            "temperatuur": "9", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "64", 
+            "vochtigheid": "95", 
+            "jaar": "20160214", 
+            "temperatuur": "15", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "41", 
+            "vochtigheid": "82", 
+            "jaar": "20160215", 
+            "temperatuur": "18", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "15", 
+            "vochtigheid": "82", 
+            "jaar": "20160216", 
+            "temperatuur": "3", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "24", 
+            "vochtigheid": "83", 
+            "jaar": "20160217", 
+            "temperatuur": "-9", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "89", 
+            "jaar": "20160218", 
+            "temperatuur": "9", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "44", 
+            "vochtigheid": "87", 
+            "jaar": "20160219", 
+            "temperatuur": "35", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "85", 
+            "vochtigheid": "91", 
+            "jaar": "20160220", 
+            "temperatuur": "78", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "97", 
+            "vochtigheid": "92", 
+            "jaar": "20160221", 
+            "temperatuur": "101", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "56", 
+            "vochtigheid": "86", 
+            "jaar": "20160222", 
+            "temperatuur": "65", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "37", 
+            "vochtigheid": "88", 
+            "jaar": "20160223", 
+            "temperatuur": "31", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "91", 
+            "jaar": "20160224", 
+            "temperatuur": "12", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "90", 
+            "jaar": "20160225", 
+            "temperatuur": "11", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "17", 
+            "vochtigheid": "90", 
+            "jaar": "20160226", 
+            "temperatuur": "11", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "45", 
+            "vochtigheid": "82", 
+            "jaar": "20160227", 
+            "temperatuur": "15", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "41", 
+            "vochtigheid": "86", 
+            "jaar": "20160228", 
+            "temperatuur": "16", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "30", 
+            "vochtigheid": "81", 
+            "jaar": "20160229", 
+            "temperatuur": "15", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "58", 
+            "vochtigheid": "90", 
+            "jaar": "20160301", 
+            "temperatuur": "18", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "60", 
+            "vochtigheid": "88", 
+            "jaar": "20160302", 
+            "temperatuur": "50", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "32", 
+            "vochtigheid": "86", 
+            "jaar": "20160303", 
+            "temperatuur": "35", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "93", 
+            "jaar": "20160304", 
+            "temperatuur": "13", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "10", 
+            "vochtigheid": "90", 
+            "jaar": "20160305", 
+            "temperatuur": "11", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "19", 
+            "vochtigheid": "90", 
+            "jaar": "20160306", 
+            "temperatuur": "21", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "21", 
+            "vochtigheid": "87", 
+            "jaar": "20160307", 
+            "temperatuur": "28", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "88", 
+            "jaar": "20160308", 
+            "temperatuur": "34", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "51", 
+            "vochtigheid": "73", 
+            "jaar": "20160309", 
+            "temperatuur": "39", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "39", 
+            "vochtigheid": "84", 
+            "jaar": "20160310", 
+            "temperatuur": "29", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "37", 
+            "vochtigheid": "97", 
+            "jaar": "20160311", 
+            "temperatuur": "12", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "30", 
+            "vochtigheid": "83", 
+            "jaar": "20160312", 
+            "temperatuur": "21", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "45", 
+            "vochtigheid": "80", 
+            "jaar": "20160313", 
+            "temperatuur": "30", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "46", 
+            "vochtigheid": "77", 
+            "jaar": "20160314", 
+            "temperatuur": "31", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "93", 
+            "jaar": "20160315", 
+            "temperatuur": "47", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "51", 
+            "vochtigheid": "76", 
+            "jaar": "20160316", 
+            "temperatuur": "36", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "39", 
+            "vochtigheid": "77", 
+            "jaar": "20160317", 
+            "temperatuur": "47", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "91", 
+            "jaar": "20160318", 
+            "temperatuur": "54", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "78", 
+            "jaar": "20160319", 
+            "temperatuur": "61", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "93", 
+            "jaar": "20160320", 
+            "temperatuur": "64", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "42", 
+            "vochtigheid": "89", 
+            "jaar": "20160321", 
+            "temperatuur": "70", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "44", 
+            "vochtigheid": "88", 
+            "jaar": "20160322", 
+            "temperatuur": "75", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "39", 
+            "vochtigheid": "87", 
+            "jaar": "20160323", 
+            "temperatuur": "72", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "87", 
+            "jaar": "20160324", 
+            "temperatuur": "74", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "49", 
+            "vochtigheid": "95", 
+            "jaar": "20160325", 
+            "temperatuur": "64", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "66", 
+            "vochtigheid": "77", 
+            "jaar": "20160326", 
+            "temperatuur": "93", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "66", 
+            "vochtigheid": "82", 
+            "jaar": "20160327", 
+            "temperatuur": "88", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "97", 
+            "vochtigheid": "72", 
+            "jaar": "20160328", 
+            "temperatuur": "90", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "67", 
+            "vochtigheid": "83", 
+            "jaar": "20160329", 
+            "temperatuur": "74", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "53", 
+            "vochtigheid": "79", 
+            "jaar": "20160330", 
+            "temperatuur": "76", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "30", 
+            "vochtigheid": "80", 
+            "jaar": "20160331", 
+            "temperatuur": "70", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "20", 
+            "vochtigheid": "70", 
+            "jaar": "20160401", 
+            "temperatuur": "74", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "26", 
+            "vochtigheid": "73", 
+            "jaar": "20160402", 
+            "temperatuur": "97", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "37", 
+            "vochtigheid": "77", 
+            "jaar": "20160403", 
+            "temperatuur": "145", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "82", 
+            "jaar": "20160404", 
+            "temperatuur": "125", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "30", 
+            "vochtigheid": "88", 
+            "jaar": "20160405", 
+            "temperatuur": "96", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "68", 
+            "vochtigheid": "88", 
+            "jaar": "20160406", 
+            "temperatuur": "78", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "63", 
+            "vochtigheid": "81", 
+            "jaar": "20160407", 
+            "temperatuur": "70", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "25", 
+            "vochtigheid": "85", 
+            "jaar": "20160408", 
+            "temperatuur": "73", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "70", 
+            "jaar": "20160409", 
+            "temperatuur": "94", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "34", 
+            "vochtigheid": "80", 
+            "jaar": "20160410", 
+            "temperatuur": "98", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "60", 
+            "vochtigheid": "64", 
+            "jaar": "20160411", 
+            "temperatuur": "122", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "31", 
+            "vochtigheid": "76", 
+            "jaar": "20160412", 
+            "temperatuur": "118", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "20", 
+            "vochtigheid": "82", 
+            "jaar": "20160413", 
+            "temperatuur": "94", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "21", 
+            "vochtigheid": "84", 
+            "jaar": "20160414", 
+            "temperatuur": "94", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "89", 
+            "jaar": "20160415", 
+            "temperatuur": "99", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "66", 
+            "vochtigheid": "81", 
+            "jaar": "20160416", 
+            "temperatuur": "85", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "76", 
+            "jaar": "20160417", 
+            "temperatuur": "65", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "58", 
+            "vochtigheid": "77", 
+            "jaar": "20160418", 
+            "temperatuur": "80", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "45", 
+            "vochtigheid": "74", 
+            "jaar": "20160419", 
+            "temperatuur": "94", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "74", 
+            "jaar": "20160420", 
+            "temperatuur": "78", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "43", 
+            "vochtigheid": "70", 
+            "jaar": "20160421", 
+            "temperatuur": "86", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "42", 
+            "vochtigheid": "74", 
+            "jaar": "20160422", 
+            "temperatuur": "78", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "50", 
+            "vochtigheid": "73", 
+            "jaar": "20160423", 
+            "temperatuur": "58", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "51", 
+            "vochtigheid": "76", 
+            "jaar": "20160424", 
+            "temperatuur": "50", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "51", 
+            "vochtigheid": "83", 
+            "jaar": "20160425", 
+            "temperatuur": "47", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "68", 
+            "vochtigheid": "86", 
+            "jaar": "20160426", 
+            "temperatuur": "46", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "44", 
+            "vochtigheid": "82", 
+            "jaar": "20160427", 
+            "temperatuur": "56", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "81", 
+            "jaar": "20160428", 
+            "temperatuur": "49", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "65", 
+            "vochtigheid": "79", 
+            "jaar": "20160429", 
+            "temperatuur": "74", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "37", 
+            "vochtigheid": "77", 
+            "jaar": "20160430", 
+            "temperatuur": "73", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "23", 
+            "vochtigheid": "77", 
+            "jaar": "20160501", 
+            "temperatuur": "79", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "74", 
+            "jaar": "20160502", 
+            "temperatuur": "113", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "43", 
+            "vochtigheid": "75", 
+            "jaar": "20160503", 
+            "temperatuur": "96", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "18", 
+            "vochtigheid": "68", 
+            "jaar": "20160504", 
+            "temperatuur": "100", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "55", 
+            "jaar": "20160505", 
+            "temperatuur": "130", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "58", 
+            "jaar": "20160506", 
+            "temperatuur": "172", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "53", 
+            "jaar": "20160507", 
+            "temperatuur": "196", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "52", 
+            "vochtigheid": "47", 
+            "jaar": "20160508", 
+            "temperatuur": "197", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "58", 
+            "vochtigheid": "53", 
+            "jaar": "20160509", 
+            "temperatuur": "197", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "67", 
+            "jaar": "20160510", 
+            "temperatuur": "185", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "62", 
+            "jaar": "20160511", 
+            "temperatuur": "196", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "61", 
+            "vochtigheid": "58", 
+            "jaar": "20160512", 
+            "temperatuur": "191", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "61", 
+            "vochtigheid": "64", 
+            "jaar": "20160513", 
+            "temperatuur": "143", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "60", 
+            "vochtigheid": "70", 
+            "jaar": "20160514", 
+            "temperatuur": "86", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "56", 
+            "vochtigheid": "64", 
+            "jaar": "20160515", 
+            "temperatuur": "89", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "37", 
+            "vochtigheid": "72", 
+            "jaar": "20160516", 
+            "temperatuur": "94", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "30", 
+            "vochtigheid": "73", 
+            "jaar": "20160517", 
+            "temperatuur": "119", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "32", 
+            "vochtigheid": "75", 
+            "jaar": "20160518", 
+            "temperatuur": "134", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "29", 
+            "vochtigheid": "82", 
+            "jaar": "20160519", 
+            "temperatuur": "135", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "43", 
+            "vochtigheid": "86", 
+            "jaar": "20160520", 
+            "temperatuur": "132", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "51", 
+            "vochtigheid": "72", 
+            "jaar": "20160521", 
+            "temperatuur": "176", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "26", 
+            "vochtigheid": "87", 
+            "jaar": "20160522", 
+            "temperatuur": "157", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "58", 
+            "vochtigheid": "90", 
+            "jaar": "20160523", 
+            "temperatuur": "123", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "48", 
+            "vochtigheid": "81", 
+            "jaar": "20160524", 
+            "temperatuur": "111", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "16", 
+            "vochtigheid": "90", 
+            "jaar": "20160525", 
+            "temperatuur": "124", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "19", 
+            "vochtigheid": "83", 
+            "jaar": "20160526", 
+            "temperatuur": "140", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "79", 
+            "jaar": "20160527", 
+            "temperatuur": "154", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "30", 
+            "vochtigheid": "84", 
+            "jaar": "20160528", 
+            "temperatuur": "171", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "50", 
+            "vochtigheid": "85", 
+            "jaar": "20160529", 
+            "temperatuur": "172", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "56", 
+            "vochtigheid": "90", 
+            "jaar": "20160530", 
+            "temperatuur": "173", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "30", 
+            "vochtigheid": "76", 
+            "jaar": "20160531", 
+            "temperatuur": "193", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "48", 
+            "vochtigheid": "80", 
+            "jaar": "20160601", 
+            "temperatuur": "201", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "51", 
+            "vochtigheid": "90", 
+            "jaar": "20160602", 
+            "temperatuur": "155", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "24", 
+            "vochtigheid": "89", 
+            "jaar": "20160603", 
+            "temperatuur": "176", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "76", 
+            "jaar": "20160604", 
+            "temperatuur": "209", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "39", 
+            "vochtigheid": "77", 
+            "jaar": "20160605", 
+            "temperatuur": "182", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "32", 
+            "vochtigheid": "76", 
+            "jaar": "20160606", 
+            "temperatuur": "175", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "31", 
+            "vochtigheid": "74", 
+            "jaar": "20160607", 
+            "temperatuur": "188", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "32", 
+            "vochtigheid": "82", 
+            "jaar": "20160608", 
+            "temperatuur": "146", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "32", 
+            "vochtigheid": "71", 
+            "jaar": "20160609", 
+            "temperatuur": "143", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "22", 
+            "vochtigheid": "72", 
+            "jaar": "20160610", 
+            "temperatuur": "152", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "22", 
+            "vochtigheid": "72", 
+            "jaar": "20160611", 
+            "temperatuur": "160", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "15", 
+            "vochtigheid": "83", 
+            "jaar": "20160612", 
+            "temperatuur": "166", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "91", 
+            "jaar": "20160613", 
+            "temperatuur": "158", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "32", 
+            "vochtigheid": "90", 
+            "jaar": "20160614", 
+            "temperatuur": "154", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "24", 
+            "vochtigheid": "89", 
+            "jaar": "20160615", 
+            "temperatuur": "145", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "20", 
+            "vochtigheid": "79", 
+            "jaar": "20160616", 
+            "temperatuur": "161", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "80", 
+            "jaar": "20160617", 
+            "temperatuur": "160", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "44", 
+            "vochtigheid": "82", 
+            "jaar": "20160618", 
+            "temperatuur": "144", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "69", 
+            "jaar": "20160619", 
+            "temperatuur": "152", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "58", 
+            "vochtigheid": "91", 
+            "jaar": "20160620", 
+            "temperatuur": "155", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "30", 
+            "vochtigheid": "91", 
+            "jaar": "20160621", 
+            "temperatuur": "173", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "29", 
+            "vochtigheid": "80", 
+            "jaar": "20160622", 
+            "temperatuur": "198", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "24", 
+            "vochtigheid": "88", 
+            "jaar": "20160623", 
+            "temperatuur": "217", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "32", 
+            "vochtigheid": "87", 
+            "jaar": "20160624", 
+            "temperatuur": "191", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "17", 
+            "vochtigheid": "90", 
+            "jaar": "20160625", 
+            "temperatuur": "152", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "84", 
+            "jaar": "20160626", 
+            "temperatuur": "145", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "44", 
+            "vochtigheid": "86", 
+            "jaar": "20160627", 
+            "temperatuur": "148", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "25", 
+            "vochtigheid": "78", 
+            "jaar": "20160628", 
+            "temperatuur": "165", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "53", 
+            "vochtigheid": "82", 
+            "jaar": "20160629", 
+            "temperatuur": "157", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "46", 
+            "vochtigheid": "91", 
+            "jaar": "20160630", 
+            "temperatuur": "159", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "60", 
+            "vochtigheid": "89", 
+            "jaar": "20160701", 
+            "temperatuur": "165", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "58", 
+            "vochtigheid": "76", 
+            "jaar": "20160702", 
+            "temperatuur": "147", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "81", 
+            "jaar": "20160703", 
+            "temperatuur": "146", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "17", 
+            "vochtigheid": "76", 
+            "jaar": "20160704", 
+            "temperatuur": "172", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "58", 
+            "vochtigheid": "86", 
+            "jaar": "20160705", 
+            "temperatuur": "153", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "77", 
+            "jaar": "20160706", 
+            "temperatuur": "147", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "32", 
+            "vochtigheid": "76", 
+            "jaar": "20160707", 
+            "temperatuur": "165", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "88", 
+            "jaar": "20160708", 
+            "temperatuur": "164", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "34", 
+            "vochtigheid": "82", 
+            "jaar": "20160709", 
+            "temperatuur": "180", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "46", 
+            "vochtigheid": "77", 
+            "jaar": "20160710", 
+            "temperatuur": "204", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "77", 
+            "vochtigheid": "75", 
+            "jaar": "20160711", 
+            "temperatuur": "177", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "31", 
+            "vochtigheid": "90", 
+            "jaar": "20160712", 
+            "temperatuur": "163", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "27", 
+            "vochtigheid": "86", 
+            "jaar": "20160713", 
+            "temperatuur": "142", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "45", 
+            "vochtigheid": "75", 
+            "jaar": "20160714", 
+            "temperatuur": "147", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "39", 
+            "vochtigheid": "73", 
+            "jaar": "20160715", 
+            "temperatuur": "163", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "88", 
+            "jaar": "20160716", 
+            "temperatuur": "185", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "37", 
+            "vochtigheid": "82", 
+            "jaar": "20160717", 
+            "temperatuur": "190", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "20", 
+            "vochtigheid": "74", 
+            "jaar": "20160718", 
+            "temperatuur": "187", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "19", 
+            "vochtigheid": "69", 
+            "jaar": "20160719", 
+            "temperatuur": "209", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "34", 
+            "vochtigheid": "68", 
+            "jaar": "20160720", 
+            "temperatuur": "241", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "83", 
+            "jaar": "20160721", 
+            "temperatuur": "213", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "20", 
+            "vochtigheid": "87", 
+            "jaar": "20160722", 
+            "temperatuur": "201", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "88", 
+            "jaar": "20160723", 
+            "temperatuur": "197", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "18", 
+            "vochtigheid": "83", 
+            "jaar": "20160724", 
+            "temperatuur": "202", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "32", 
+            "vochtigheid": "85", 
+            "jaar": "20160725", 
+            "temperatuur": "181", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "21", 
+            "vochtigheid": "77", 
+            "jaar": "20160726", 
+            "temperatuur": "186", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "43", 
+            "vochtigheid": "86", 
+            "jaar": "20160727", 
+            "temperatuur": "182", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "90", 
+            "jaar": "20160728", 
+            "temperatuur": "181", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "46", 
+            "vochtigheid": "85", 
+            "jaar": "20160729", 
+            "temperatuur": "182", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "26", 
+            "vochtigheid": "83", 
+            "jaar": "20160730", 
+            "temperatuur": "179", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "34", 
+            "vochtigheid": "79", 
+            "jaar": "20160731", 
+            "temperatuur": "164", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "29", 
+            "vochtigheid": "78", 
+            "jaar": "20160801", 
+            "temperatuur": "162", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "91", 
+            "jaar": "20160802", 
+            "temperatuur": "166", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "66", 
+            "vochtigheid": "88", 
+            "jaar": "20160803", 
+            "temperatuur": "190", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "56", 
+            "vochtigheid": "82", 
+            "jaar": "20160804", 
+            "temperatuur": "172", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "82", 
+            "jaar": "20160805", 
+            "temperatuur": "172", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "31", 
+            "vochtigheid": "82", 
+            "jaar": "20160806", 
+            "temperatuur": "164", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "54", 
+            "vochtigheid": "85", 
+            "jaar": "20160807", 
+            "temperatuur": "179", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "55", 
+            "vochtigheid": "73", 
+            "jaar": "20160808", 
+            "temperatuur": "171", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "80", 
+            "jaar": "20160809", 
+            "temperatuur": "139", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "31", 
+            "vochtigheid": "75", 
+            "jaar": "20160810", 
+            "temperatuur": "129", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "50", 
+            "vochtigheid": "93", 
+            "jaar": "20160811", 
+            "temperatuur": "138", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "48", 
+            "vochtigheid": "88", 
+            "jaar": "20160812", 
+            "temperatuur": "183", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "88", 
+            "jaar": "20160813", 
+            "temperatuur": "172", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "20", 
+            "vochtigheid": "83", 
+            "jaar": "20160814", 
+            "temperatuur": "157", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "23", 
+            "vochtigheid": "79", 
+            "jaar": "20160815", 
+            "temperatuur": "160", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "79", 
+            "jaar": "20160816", 
+            "temperatuur": "154", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "74", 
+            "jaar": "20160817", 
+            "temperatuur": "164", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "37", 
+            "vochtigheid": "78", 
+            "jaar": "20160818", 
+            "temperatuur": "167", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "31", 
+            "vochtigheid": "81", 
+            "jaar": "20160819", 
+            "temperatuur": "180", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "53", 
+            "vochtigheid": "78", 
+            "jaar": "20160820", 
+            "temperatuur": "178", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "55", 
+            "vochtigheid": "89", 
+            "jaar": "20160821", 
+            "temperatuur": "163", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "48", 
+            "vochtigheid": "90", 
+            "jaar": "20160822", 
+            "temperatuur": "174", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "21", 
+            "vochtigheid": "73", 
+            "jaar": "20160823", 
+            "temperatuur": "212", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "25", 
+            "vochtigheid": "69", 
+            "jaar": "20160824", 
+            "temperatuur": "233", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "18", 
+            "vochtigheid": "74", 
+            "jaar": "20160825", 
+            "temperatuur": "239", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "24", 
+            "vochtigheid": "82", 
+            "jaar": "20160826", 
+            "temperatuur": "207", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "46", 
+            "vochtigheid": "78", 
+            "jaar": "20160827", 
+            "temperatuur": "206", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "44", 
+            "vochtigheid": "85", 
+            "jaar": "20160828", 
+            "temperatuur": "201", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "81", 
+            "jaar": "20160829", 
+            "temperatuur": "170", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "15", 
+            "vochtigheid": "82", 
+            "jaar": "20160830", 
+            "temperatuur": "164", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "22", 
+            "vochtigheid": "76", 
+            "jaar": "20160831", 
+            "temperatuur": "177", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "25", 
+            "vochtigheid": "82", 
+            "jaar": "20160901", 
+            "temperatuur": "173", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "39", 
+            "vochtigheid": "85", 
+            "jaar": "20160902", 
+            "temperatuur": "166", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "34", 
+            "vochtigheid": "84", 
+            "jaar": "20160903", 
+            "temperatuur": "179", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "67", 
+            "vochtigheid": "85", 
+            "jaar": "20160904", 
+            "temperatuur": "177", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "29", 
+            "vochtigheid": "86", 
+            "jaar": "20160905", 
+            "temperatuur": "178", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "20", 
+            "vochtigheid": "86", 
+            "jaar": "20160906", 
+            "temperatuur": "183", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "17", 
+            "vochtigheid": "81", 
+            "jaar": "20160907", 
+            "temperatuur": "188", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "79", 
+            "jaar": "20160908", 
+            "temperatuur": "194", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "24", 
+            "vochtigheid": "82", 
+            "jaar": "20160909", 
+            "temperatuur": "175", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "26", 
+            "vochtigheid": "73", 
+            "jaar": "20160910", 
+            "temperatuur": "187", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "19", 
+            "vochtigheid": "86", 
+            "jaar": "20160911", 
+            "temperatuur": "187", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "21", 
+            "vochtigheid": "74", 
+            "jaar": "20160912", 
+            "temperatuur": "213", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "25", 
+            "vochtigheid": "72", 
+            "jaar": "20160913", 
+            "temperatuur": "233", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "71", 
+            "jaar": "20160914", 
+            "temperatuur": "230", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "39", 
+            "vochtigheid": "70", 
+            "jaar": "20160915", 
+            "temperatuur": "217", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "83", 
+            "jaar": "20160916", 
+            "temperatuur": "177", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "22", 
+            "vochtigheid": "85", 
+            "jaar": "20160917", 
+            "temperatuur": "171", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "36", 
+            "vochtigheid": "80", 
+            "jaar": "20160918", 
+            "temperatuur": "164", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "17", 
+            "vochtigheid": "80", 
+            "jaar": "20160919", 
+            "temperatuur": "145", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "15", 
+            "vochtigheid": "80", 
+            "jaar": "20160920", 
+            "temperatuur": "142", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "19", 
+            "vochtigheid": "71", 
+            "jaar": "20160921", 
+            "temperatuur": "149", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "20", 
+            "vochtigheid": "79", 
+            "jaar": "20160922", 
+            "temperatuur": "146", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "79", 
+            "jaar": "20160923", 
+            "temperatuur": "143", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "31", 
+            "vochtigheid": "70", 
+            "jaar": "20160924", 
+            "temperatuur": "163", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "41", 
+            "vochtigheid": "73", 
+            "jaar": "20160925", 
+            "temperatuur": "168", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "11", 
+            "vochtigheid": "85", 
+            "jaar": "20160926", 
+            "temperatuur": "138", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "30", 
+            "vochtigheid": "72", 
+            "jaar": "20160927", 
+            "temperatuur": "145", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "66", 
+            "vochtigheid": "75", 
+            "jaar": "20160928", 
+            "temperatuur": "182", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "73", 
+            "vochtigheid": "86", 
+            "jaar": "20160929", 
+            "temperatuur": "155", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "41", 
+            "vochtigheid": "81", 
+            "jaar": "20160930", 
+            "temperatuur": "137", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "84", 
+            "jaar": "20161001", 
+            "temperatuur": "133", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "50", 
+            "vochtigheid": "88", 
+            "jaar": "20161002", 
+            "temperatuur": "120", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "34", 
+            "vochtigheid": "83", 
+            "jaar": "20161003", 
+            "temperatuur": "140", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "45", 
+            "vochtigheid": "81", 
+            "jaar": "20161004", 
+            "temperatuur": "124", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "48", 
+            "vochtigheid": "76", 
+            "jaar": "20161005", 
+            "temperatuur": "90", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "43", 
+            "vochtigheid": "80", 
+            "jaar": "20161006", 
+            "temperatuur": "93", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "82", 
+            "jaar": "20161007", 
+            "temperatuur": "118", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "29", 
+            "vochtigheid": "80", 
+            "jaar": "20161008", 
+            "temperatuur": "104", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "11", 
+            "vochtigheid": "89", 
+            "jaar": "20161009", 
+            "temperatuur": "72", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "15", 
+            "vochtigheid": "84", 
+            "jaar": "20161010", 
+            "temperatuur": "69", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "23", 
+            "vochtigheid": "89", 
+            "jaar": "20161011", 
+            "temperatuur": "84", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "46", 
+            "vochtigheid": "82", 
+            "jaar": "20161012", 
+            "temperatuur": "89", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "59", 
+            "vochtigheid": "82", 
+            "jaar": "20161013", 
+            "temperatuur": "87", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "53", 
+            "vochtigheid": "80", 
+            "jaar": "20161014", 
+            "temperatuur": "94", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "31", 
+            "vochtigheid": "92", 
+            "jaar": "20161015", 
+            "temperatuur": "105", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "77", 
+            "jaar": "20161016", 
+            "temperatuur": "130", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "29", 
+            "vochtigheid": "89", 
+            "jaar": "20161017", 
+            "temperatuur": "119", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "51", 
+            "vochtigheid": "89", 
+            "jaar": "20161018", 
+            "temperatuur": "101", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "44", 
+            "vochtigheid": "86", 
+            "jaar": "20161019", 
+            "temperatuur": "90", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "31", 
+            "vochtigheid": "91", 
+            "jaar": "20161020", 
+            "temperatuur": "89", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "21", 
+            "vochtigheid": "94", 
+            "jaar": "20161021", 
+            "temperatuur": "77", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "20", 
+            "vochtigheid": "88", 
+            "jaar": "20161022", 
+            "temperatuur": "74", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "17", 
+            "vochtigheid": "86", 
+            "jaar": "20161023", 
+            "temperatuur": "52", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "36", 
+            "vochtigheid": "92", 
+            "jaar": "20161024", 
+            "temperatuur": "65", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "17", 
+            "vochtigheid": "94", 
+            "jaar": "20161025", 
+            "temperatuur": "76", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "30", 
+            "vochtigheid": "89", 
+            "jaar": "20161026", 
+            "temperatuur": "97", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "48", 
+            "vochtigheid": "93", 
+            "jaar": "20161027", 
+            "temperatuur": "113", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "36", 
+            "vochtigheid": "91", 
+            "jaar": "20161028", 
+            "temperatuur": "122", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "14", 
+            "vochtigheid": "90", 
+            "jaar": "20161029", 
+            "temperatuur": "90", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "9", 
+            "vochtigheid": "93", 
+            "jaar": "20161030", 
+            "temperatuur": "92", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "10", 
+            "vochtigheid": "89", 
+            "jaar": "20161031", 
+            "temperatuur": "99", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "23", 
+            "vochtigheid": "91", 
+            "jaar": "20161101", 
+            "temperatuur": "91", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "34", 
+            "vochtigheid": "85", 
+            "jaar": "20161102", 
+            "temperatuur": "73", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "90", 
+            "jaar": "20161103", 
+            "temperatuur": "69", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "47", 
+            "vochtigheid": "85", 
+            "jaar": "20161104", 
+            "temperatuur": "73", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "36", 
+            "vochtigheid": "91", 
+            "jaar": "20161105", 
+            "temperatuur": "64", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "91", 
+            "jaar": "20161106", 
+            "temperatuur": "64", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "92", 
+            "jaar": "20161107", 
+            "temperatuur": "39", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "20", 
+            "vochtigheid": "93", 
+            "jaar": "20161108", 
+            "temperatuur": "15", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "93", 
+            "jaar": "20161109", 
+            "temperatuur": "29", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "93", 
+            "jaar": "20161110", 
+            "temperatuur": "36", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "37", 
+            "vochtigheid": "87", 
+            "jaar": "20161111", 
+            "temperatuur": "21", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "30", 
+            "vochtigheid": "84", 
+            "jaar": "20161112", 
+            "temperatuur": "20", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "23", 
+            "vochtigheid": "91", 
+            "jaar": "20161113", 
+            "temperatuur": "22", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "41", 
+            "vochtigheid": "94", 
+            "jaar": "20161114", 
+            "temperatuur": "28", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "45", 
+            "vochtigheid": "98", 
+            "jaar": "20161115", 
+            "temperatuur": "103", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "54", 
+            "vochtigheid": "91", 
+            "jaar": "20161116", 
+            "temperatuur": "115", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "68", 
+            "vochtigheid": "88", 
+            "jaar": "20161117", 
+            "temperatuur": "88", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "72", 
+            "vochtigheid": "85", 
+            "jaar": "20161118", 
+            "temperatuur": "60", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "57", 
+            "vochtigheid": "83", 
+            "jaar": "20161119", 
+            "temperatuur": "54", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "91", 
+            "vochtigheid": "80", 
+            "jaar": "20161120", 
+            "temperatuur": "78", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "45", 
+            "vochtigheid": "86", 
+            "jaar": "20161121", 
+            "temperatuur": "117", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "65", 
+            "vochtigheid": "78", 
+            "jaar": "20161122", 
+            "temperatuur": "107", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "29", 
+            "vochtigheid": "94", 
+            "jaar": "20161123", 
+            "temperatuur": "71", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "63", 
+            "vochtigheid": "84", 
+            "jaar": "20161124", 
+            "temperatuur": "57", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "50", 
+            "vochtigheid": "83", 
+            "jaar": "20161125", 
+            "temperatuur": "23", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "18", 
+            "vochtigheid": "97", 
+            "jaar": "20161126", 
+            "temperatuur": "-5", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "84", 
+            "jaar": "20161127", 
+            "temperatuur": "58", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "25", 
+            "vochtigheid": "84", 
+            "jaar": "20161128", 
+            "temperatuur": "-6", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "13", 
+            "vochtigheid": "86", 
+            "jaar": "20161129", 
+            "temperatuur": "-28", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "41", 
+            "vochtigheid": "87", 
+            "jaar": "20161130", 
+            "temperatuur": "24", 
+            "plaats": "269"
+        }, 
+        {
+            "windsnelheid": "13", 
+            "vochtigheid": "92", 
+            "jaar": "20151101", 
+            "temperatuur": "87", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "22", 
+            "vochtigheid": "90", 
+            "jaar": "20151102", 
+            "temperatuur": "84", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "24", 
+            "vochtigheid": "80", 
+            "jaar": "20151103", 
+            "temperatuur": "104", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "47", 
+            "vochtigheid": "84", 
+            "jaar": "20151104", 
+            "temperatuur": "133", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "46", 
+            "vochtigheid": "92", 
+            "jaar": "20151105", 
+            "temperatuur": "138", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "69", 
+            "vochtigheid": "93", 
+            "jaar": "20151106", 
+            "temperatuur": "155", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "68", 
+            "vochtigheid": "91", 
+            "jaar": "20151107", 
+            "temperatuur": "161", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "47", 
+            "vochtigheid": "89", 
+            "jaar": "20151108", 
+            "temperatuur": "136", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "90", 
+            "vochtigheid": "83", 
+            "jaar": "20151109", 
+            "temperatuur": "137", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "95", 
+            "vochtigheid": "92", 
+            "jaar": "20151110", 
+            "temperatuur": "144", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "70", 
+            "vochtigheid": "87", 
+            "jaar": "20151111", 
+            "temperatuur": "130", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "48", 
+            "vochtigheid": "87", 
+            "jaar": "20151112", 
+            "temperatuur": "134", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "79", 
+            "vochtigheid": "74", 
+            "jaar": "20151113", 
+            "temperatuur": "113", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "80", 
+            "vochtigheid": "79", 
+            "jaar": "20151114", 
+            "temperatuur": "103", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "113", 
+            "vochtigheid": "87", 
+            "jaar": "20151115", 
+            "temperatuur": "141", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "75", 
+            "vochtigheid": "86", 
+            "jaar": "20151116", 
+            "temperatuur": "125", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "96", 
+            "vochtigheid": "88", 
+            "jaar": "20151117", 
+            "temperatuur": "138", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "102", 
+            "vochtigheid": "75", 
+            "jaar": "20151118", 
+            "temperatuur": "131", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "74", 
+            "vochtigheid": "79", 
+            "jaar": "20151119", 
+            "temperatuur": "112", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "55", 
+            "vochtigheid": "72", 
+            "jaar": "20151120", 
+            "temperatuur": "84", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "56", 
+            "vochtigheid": "83", 
+            "jaar": "20151121", 
+            "temperatuur": "53", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "23", 
+            "vochtigheid": "90", 
+            "jaar": "20151122", 
+            "temperatuur": "23", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "34", 
+            "vochtigheid": "84", 
+            "jaar": "20151123", 
+            "temperatuur": "33", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "73", 
+            "vochtigheid": "91", 
+            "jaar": "20151124", 
+            "temperatuur": "52", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "31", 
+            "vochtigheid": "88", 
+            "jaar": "20151125", 
+            "temperatuur": "61", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "20", 
+            "vochtigheid": "90", 
+            "jaar": "20151126", 
+            "temperatuur": "50", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "64", 
+            "vochtigheid": "94", 
+            "jaar": "20151127", 
+            "temperatuur": "57", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "84", 
+            "vochtigheid": "82", 
+            "jaar": "20151128", 
+            "temperatuur": "71", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "102", 
+            "vochtigheid": "81", 
+            "jaar": "20151129", 
+            "temperatuur": "108", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "92", 
+            "vochtigheid": "82", 
+            "jaar": "20151130", 
+            "temperatuur": "98", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "46", 
+            "vochtigheid": "90", 
+            "jaar": "20151201", 
+            "temperatuur": "103", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "68", 
+            "vochtigheid": "76", 
+            "jaar": "20151202", 
+            "temperatuur": "110", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "63", 
+            "vochtigheid": "80", 
+            "jaar": "20151203", 
+            "temperatuur": "98", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "76", 
+            "vochtigheid": "84", 
+            "jaar": "20151204", 
+            "temperatuur": "95", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "98", 
+            "vochtigheid": "79", 
+            "jaar": "20151205", 
+            "temperatuur": "81", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "89", 
+            "vochtigheid": "86", 
+            "jaar": "20151206", 
+            "temperatuur": "105", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "44", 
+            "vochtigheid": "90", 
+            "jaar": "20151207", 
+            "temperatuur": "109", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "60", 
+            "vochtigheid": "88", 
+            "jaar": "20151208", 
+            "temperatuur": "98", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "50", 
+            "vochtigheid": "83", 
+            "jaar": "20151209", 
+            "temperatuur": "77", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "81", 
+            "vochtigheid": "86", 
+            "jaar": "20151210", 
+            "temperatuur": "61", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "61", 
+            "vochtigheid": "89", 
+            "jaar": "20151211", 
+            "temperatuur": "74", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "69", 
+            "vochtigheid": "86", 
+            "jaar": "20151212", 
+            "temperatuur": "78", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "31", 
+            "vochtigheid": "92", 
+            "jaar": "20151213", 
+            "temperatuur": "75", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "29", 
+            "vochtigheid": "92", 
+            "jaar": "20151214", 
+            "temperatuur": "75", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "91", 
+            "jaar": "20151215", 
+            "temperatuur": "80", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "61", 
+            "vochtigheid": "94", 
+            "jaar": "20151216", 
+            "temperatuur": "120", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "60", 
+            "vochtigheid": "84", 
+            "jaar": "20151217", 
+            "temperatuur": "134", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "59", 
+            "vochtigheid": "87", 
+            "jaar": "20151218", 
+            "temperatuur": "117", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "62", 
+            "vochtigheid": "90", 
+            "jaar": "20151219", 
+            "temperatuur": "125", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "63", 
+            "vochtigheid": "82", 
+            "jaar": "20151220", 
+            "temperatuur": "119", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "88", 
+            "vochtigheid": "86", 
+            "jaar": "20151221", 
+            "temperatuur": "102", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "95", 
+            "vochtigheid": "87", 
+            "jaar": "20151222", 
+            "temperatuur": "128", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "76", 
+            "vochtigheid": "83", 
+            "jaar": "20151223", 
+            "temperatuur": "104", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "71", 
+            "vochtigheid": "85", 
+            "jaar": "20151224", 
+            "temperatuur": "97", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "63", 
+            "vochtigheid": "86", 
+            "jaar": "20151225", 
+            "temperatuur": "98", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "85", 
+            "vochtigheid": "82", 
+            "jaar": "20151226", 
+            "temperatuur": "126", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "74", 
+            "vochtigheid": "82", 
+            "jaar": "20151227", 
+            "temperatuur": "117", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "42", 
+            "vochtigheid": "82", 
+            "jaar": "20151228", 
+            "temperatuur": "91", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "45", 
+            "vochtigheid": "87", 
+            "jaar": "20151229", 
+            "temperatuur": "87", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "75", 
+            "vochtigheid": "82", 
+            "jaar": "20151230", 
+            "temperatuur": "82", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "71", 
+            "vochtigheid": "80", 
+            "jaar": "20151231", 
+            "temperatuur": "84", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "39", 
+            "vochtigheid": "93", 
+            "jaar": "20160101", 
+            "temperatuur": "56", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "55", 
+            "vochtigheid": "92", 
+            "jaar": "20160102", 
+            "temperatuur": "69", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "70", 
+            "vochtigheid": "89", 
+            "jaar": "20160103", 
+            "temperatuur": "73", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "44", 
+            "vochtigheid": "94", 
+            "jaar": "20160104", 
+            "temperatuur": "66", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "43", 
+            "vochtigheid": "91", 
+            "jaar": "20160105", 
+            "temperatuur": "70", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "34", 
+            "vochtigheid": "98", 
+            "jaar": "20160106", 
+            "temperatuur": "54", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "78", 
+            "vochtigheid": "84", 
+            "jaar": "20160107", 
+            "temperatuur": "68", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "56", 
+            "vochtigheid": "78", 
+            "jaar": "20160108", 
+            "temperatuur": "60", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "61", 
+            "vochtigheid": "92", 
+            "jaar": "20160109", 
+            "temperatuur": "64", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "72", 
+            "vochtigheid": "85", 
+            "jaar": "20160110", 
+            "temperatuur": "69", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "51", 
+            "vochtigheid": "91", 
+            "jaar": "20160111", 
+            "temperatuur": "57", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "62", 
+            "vochtigheid": "84", 
+            "jaar": "20160112", 
+            "temperatuur": "65", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "55", 
+            "vochtigheid": "84", 
+            "jaar": "20160113", 
+            "temperatuur": "54", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "63", 
+            "vochtigheid": "90", 
+            "jaar": "20160114", 
+            "temperatuur": "42", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "26", 
+            "vochtigheid": "93", 
+            "jaar": "20160115", 
+            "temperatuur": "27", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "58", 
+            "vochtigheid": "78", 
+            "jaar": "20160116", 
+            "temperatuur": "35", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "24", 
+            "vochtigheid": "77", 
+            "jaar": "20160117", 
+            "temperatuur": "-2", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "32", 
+            "vochtigheid": "76", 
+            "jaar": "20160118", 
+            "temperatuur": "-19", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "22", 
+            "vochtigheid": "86", 
+            "jaar": "20160119", 
+            "temperatuur": "-10", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "15", 
+            "vochtigheid": "95", 
+            "jaar": "20160120", 
+            "temperatuur": "21", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "27", 
+            "vochtigheid": "97", 
+            "jaar": "20160121", 
+            "temperatuur": "-1", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "55", 
+            "vochtigheid": "85", 
+            "jaar": "20160122", 
+            "temperatuur": "24", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "45", 
+            "vochtigheid": "94", 
+            "jaar": "20160123", 
+            "temperatuur": "73", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "52", 
+            "vochtigheid": "97", 
+            "jaar": "20160124", 
+            "temperatuur": "81", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "57", 
+            "vochtigheid": "83", 
+            "jaar": "20160125", 
+            "temperatuur": "104", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "80", 
+            "vochtigheid": "83", 
+            "jaar": "20160126", 
+            "temperatuur": "91", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "97", 
+            "vochtigheid": "87", 
+            "jaar": "20160127", 
+            "temperatuur": "107", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "61", 
+            "vochtigheid": "73", 
+            "jaar": "20160128", 
+            "temperatuur": "66", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "100", 
+            "vochtigheid": "86", 
+            "jaar": "20160129", 
+            "temperatuur": "87", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "84", 
+            "vochtigheid": "77", 
+            "jaar": "20160130", 
+            "temperatuur": "75", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "66", 
+            "vochtigheid": "83", 
+            "jaar": "20160131", 
+            "temperatuur": "76", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "120", 
+            "vochtigheid": "85", 
+            "jaar": "20160201", 
+            "temperatuur": "112", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "89", 
+            "vochtigheid": "71", 
+            "jaar": "20160202", 
+            "temperatuur": "86", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "56", 
+            "vochtigheid": "77", 
+            "jaar": "20160203", 
+            "temperatuur": "52", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "49", 
+            "vochtigheid": "88", 
+            "jaar": "20160204", 
+            "temperatuur": "58", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "62", 
+            "vochtigheid": "89", 
+            "jaar": "20160205", 
+            "temperatuur": "90", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "69", 
+            "vochtigheid": "79", 
+            "jaar": "20160206", 
+            "temperatuur": "96", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "94", 
+            "vochtigheid": "75", 
+            "jaar": "20160207", 
+            "temperatuur": "85", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "130", 
+            "vochtigheid": "76", 
+            "jaar": "20160208", 
+            "temperatuur": "86", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "63", 
+            "vochtigheid": "80", 
+            "jaar": "20160209", 
+            "temperatuur": "55", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "49", 
+            "vochtigheid": "83", 
+            "jaar": "20160210", 
+            "temperatuur": "52", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "32", 
+            "vochtigheid": "84", 
+            "jaar": "20160211", 
+            "temperatuur": "41", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "31", 
+            "vochtigheid": "89", 
+            "jaar": "20160212", 
+            "temperatuur": "28", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "48", 
+            "vochtigheid": "87", 
+            "jaar": "20160213", 
+            "temperatuur": "17", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "53", 
+            "vochtigheid": "93", 
+            "jaar": "20160214", 
+            "temperatuur": "22", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "47", 
+            "vochtigheid": "74", 
+            "jaar": "20160215", 
+            "temperatuur": "26", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "16", 
+            "vochtigheid": "78", 
+            "jaar": "20160216", 
+            "temperatuur": "7", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "25", 
+            "vochtigheid": "76", 
+            "jaar": "20160217", 
+            "temperatuur": "1", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "39", 
+            "vochtigheid": "88", 
+            "jaar": "20160218", 
+            "temperatuur": "15", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "44", 
+            "vochtigheid": "81", 
+            "jaar": "20160219", 
+            "temperatuur": "46", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "95", 
+            "vochtigheid": "91", 
+            "jaar": "20160220", 
+            "temperatuur": "86", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "122", 
+            "vochtigheid": "90", 
+            "jaar": "20160221", 
+            "temperatuur": "104", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "55", 
+            "vochtigheid": "87", 
+            "jaar": "20160222", 
+            "temperatuur": "67", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "36", 
+            "vochtigheid": "86", 
+            "jaar": "20160223", 
+            "temperatuur": "44", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "21", 
+            "vochtigheid": "83", 
+            "jaar": "20160224", 
+            "temperatuur": "26", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "31", 
+            "vochtigheid": "87", 
+            "jaar": "20160225", 
+            "temperatuur": "20", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "23", 
+            "vochtigheid": "76", 
+            "jaar": "20160226", 
+            "temperatuur": "30", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "47", 
+            "vochtigheid": "70", 
+            "jaar": "20160227", 
+            "temperatuur": "28", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "48", 
+            "vochtigheid": "77", 
+            "jaar": "20160228", 
+            "temperatuur": "23", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "81", 
+            "jaar": "20160229", 
+            "temperatuur": "19", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "64", 
+            "vochtigheid": "90", 
+            "jaar": "20160301", 
+            "temperatuur": "36", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "68", 
+            "vochtigheid": "84", 
+            "jaar": "20160302", 
+            "temperatuur": "54", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "80", 
+            "jaar": "20160303", 
+            "temperatuur": "44", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "45", 
+            "vochtigheid": "88", 
+            "jaar": "20160304", 
+            "temperatuur": "29", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "22", 
+            "vochtigheid": "86", 
+            "jaar": "20160305", 
+            "temperatuur": "24", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "25", 
+            "vochtigheid": "89", 
+            "jaar": "20160306", 
+            "temperatuur": "31", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "21", 
+            "vochtigheid": "85", 
+            "jaar": "20160307", 
+            "temperatuur": "30", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "36", 
+            "vochtigheid": "81", 
+            "jaar": "20160308", 
+            "temperatuur": "43", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "71", 
+            "vochtigheid": "65", 
+            "jaar": "20160309", 
+            "temperatuur": "57", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "30", 
+            "vochtigheid": "75", 
+            "jaar": "20160310", 
+            "temperatuur": "42", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "30", 
+            "vochtigheid": "88", 
+            "jaar": "20160311", 
+            "temperatuur": "36", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "22", 
+            "vochtigheid": "82", 
+            "jaar": "20160312", 
+            "temperatuur": "34", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "48", 
+            "vochtigheid": "77", 
+            "jaar": "20160313", 
+            "temperatuur": "36", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "55", 
+            "vochtigheid": "73", 
+            "jaar": "20160314", 
+            "temperatuur": "41", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "32", 
+            "vochtigheid": "91", 
+            "jaar": "20160315", 
+            "temperatuur": "49", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "52", 
+            "vochtigheid": "73", 
+            "jaar": "20160316", 
+            "temperatuur": "45", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "74", 
+            "jaar": "20160317", 
+            "temperatuur": "50", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "34", 
+            "vochtigheid": "88", 
+            "jaar": "20160318", 
+            "temperatuur": "55", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "41", 
+            "vochtigheid": "75", 
+            "jaar": "20160319", 
+            "temperatuur": "64", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "90", 
+            "jaar": "20160320", 
+            "temperatuur": "66", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "87", 
+            "jaar": "20160321", 
+            "temperatuur": "72", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "34", 
+            "vochtigheid": "88", 
+            "jaar": "20160322", 
+            "temperatuur": "72", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "90", 
+            "jaar": "20160323", 
+            "temperatuur": "77", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "44", 
+            "vochtigheid": "86", 
+            "jaar": "20160324", 
+            "temperatuur": "78", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "53", 
+            "vochtigheid": "90", 
+            "jaar": "20160325", 
+            "temperatuur": "69", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "70", 
+            "vochtigheid": "77", 
+            "jaar": "20160326", 
+            "temperatuur": "98", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "71", 
+            "vochtigheid": "81", 
+            "jaar": "20160327", 
+            "temperatuur": "87", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "112", 
+            "vochtigheid": "71", 
+            "jaar": "20160328", 
+            "temperatuur": "93", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "76", 
+            "vochtigheid": "78", 
+            "jaar": "20160329", 
+            "temperatuur": "82", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "54", 
+            "vochtigheid": "75", 
+            "jaar": "20160330", 
+            "temperatuur": "82", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "30", 
+            "vochtigheid": "79", 
+            "jaar": "20160331", 
+            "temperatuur": "79", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "26", 
+            "vochtigheid": "70", 
+            "jaar": "20160401", 
+            "temperatuur": "83", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "29", 
+            "vochtigheid": "72", 
+            "jaar": "20160402", 
+            "temperatuur": "108", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "39", 
+            "vochtigheid": "76", 
+            "jaar": "20160403", 
+            "temperatuur": "149", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "42", 
+            "vochtigheid": "79", 
+            "jaar": "20160404", 
+            "temperatuur": "127", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "83", 
+            "jaar": "20160405", 
+            "temperatuur": "104", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "75", 
+            "vochtigheid": "83", 
+            "jaar": "20160406", 
+            "temperatuur": "88", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "55", 
+            "vochtigheid": "80", 
+            "jaar": "20160407", 
+            "temperatuur": "71", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "23", 
+            "vochtigheid": "85", 
+            "jaar": "20160408", 
+            "temperatuur": "73", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "41", 
+            "vochtigheid": "73", 
+            "jaar": "20160409", 
+            "temperatuur": "100", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "37", 
+            "vochtigheid": "75", 
+            "jaar": "20160410", 
+            "temperatuur": "102", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "59", 
+            "vochtigheid": "67", 
+            "jaar": "20160411", 
+            "temperatuur": "132", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "74", 
+            "jaar": "20160412", 
+            "temperatuur": "116", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "24", 
+            "vochtigheid": "77", 
+            "jaar": "20160413", 
+            "temperatuur": "105", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "71", 
+            "jaar": "20160414", 
+            "temperatuur": "120", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "90", 
+            "jaar": "20160415", 
+            "temperatuur": "104", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "59", 
+            "vochtigheid": "83", 
+            "jaar": "20160416", 
+            "temperatuur": "79", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "32", 
+            "vochtigheid": "79", 
+            "jaar": "20160417", 
+            "temperatuur": "61", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "55", 
+            "vochtigheid": "74", 
+            "jaar": "20160418", 
+            "temperatuur": "86", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "37", 
+            "vochtigheid": "74", 
+            "jaar": "20160419", 
+            "temperatuur": "92", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "74", 
+            "jaar": "20160420", 
+            "temperatuur": "79", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "45", 
+            "vochtigheid": "69", 
+            "jaar": "20160421", 
+            "temperatuur": "99", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "42", 
+            "vochtigheid": "72", 
+            "jaar": "20160422", 
+            "temperatuur": "88", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "46", 
+            "vochtigheid": "73", 
+            "jaar": "20160423", 
+            "temperatuur": "63", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "45", 
+            "vochtigheid": "78", 
+            "jaar": "20160424", 
+            "temperatuur": "48", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "44", 
+            "vochtigheid": "82", 
+            "jaar": "20160425", 
+            "temperatuur": "51", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "75", 
+            "vochtigheid": "77", 
+            "jaar": "20160426", 
+            "temperatuur": "58", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "53", 
+            "vochtigheid": "84", 
+            "jaar": "20160427", 
+            "temperatuur": "57", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "74", 
+            "jaar": "20160428", 
+            "temperatuur": "57", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "74", 
+            "vochtigheid": "71", 
+            "jaar": "20160429", 
+            "temperatuur": "83", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "76", 
+            "jaar": "20160430", 
+            "temperatuur": "73", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "18", 
+            "vochtigheid": "72", 
+            "jaar": "20160501", 
+            "temperatuur": "77", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "48", 
+            "vochtigheid": "72", 
+            "jaar": "20160502", 
+            "temperatuur": "111", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "77", 
+            "jaar": "20160503", 
+            "temperatuur": "97", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "29", 
+            "vochtigheid": "63", 
+            "jaar": "20160504", 
+            "temperatuur": "111", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "52", 
+            "jaar": "20160505", 
+            "temperatuur": "136", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "61", 
+            "jaar": "20160506", 
+            "temperatuur": "168", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "31", 
+            "vochtigheid": "54", 
+            "jaar": "20160507", 
+            "temperatuur": "193", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "54", 
+            "vochtigheid": "48", 
+            "jaar": "20160508", 
+            "temperatuur": "203", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "61", 
+            "vochtigheid": "53", 
+            "jaar": "20160509", 
+            "temperatuur": "202", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "69", 
+            "jaar": "20160510", 
+            "temperatuur": "185", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "41", 
+            "vochtigheid": "64", 
+            "jaar": "20160511", 
+            "temperatuur": "196", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "54", 
+            "vochtigheid": "57", 
+            "jaar": "20160512", 
+            "temperatuur": "196", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "55", 
+            "vochtigheid": "68", 
+            "jaar": "20160513", 
+            "temperatuur": "152", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "55", 
+            "vochtigheid": "69", 
+            "jaar": "20160514", 
+            "temperatuur": "87", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "43", 
+            "vochtigheid": "74", 
+            "jaar": "20160515", 
+            "temperatuur": "82", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "23", 
+            "vochtigheid": "77", 
+            "jaar": "20160516", 
+            "temperatuur": "93", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "43", 
+            "vochtigheid": "69", 
+            "jaar": "20160517", 
+            "temperatuur": "131", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "34", 
+            "vochtigheid": "77", 
+            "jaar": "20160518", 
+            "temperatuur": "136", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "30", 
+            "vochtigheid": "81", 
+            "jaar": "20160519", 
+            "temperatuur": "131", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "53", 
+            "vochtigheid": "81", 
+            "jaar": "20160520", 
+            "temperatuur": "140", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "53", 
+            "vochtigheid": "69", 
+            "jaar": "20160521", 
+            "temperatuur": "183", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "27", 
+            "vochtigheid": "92", 
+            "jaar": "20160522", 
+            "temperatuur": "145", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "48", 
+            "vochtigheid": "89", 
+            "jaar": "20160523", 
+            "temperatuur": "117", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "45", 
+            "vochtigheid": "76", 
+            "jaar": "20160524", 
+            "temperatuur": "112", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "18", 
+            "vochtigheid": "89", 
+            "jaar": "20160525", 
+            "temperatuur": "117", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "19", 
+            "vochtigheid": "82", 
+            "jaar": "20160526", 
+            "temperatuur": "127", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "78", 
+            "jaar": "20160527", 
+            "temperatuur": "160", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "82", 
+            "jaar": "20160528", 
+            "temperatuur": "172", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "36", 
+            "vochtigheid": "87", 
+            "jaar": "20160529", 
+            "temperatuur": "165", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "63", 
+            "vochtigheid": "96", 
+            "jaar": "20160530", 
+            "temperatuur": "140", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "80", 
+            "jaar": "20160531", 
+            "temperatuur": "179", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "89", 
+            "jaar": "20160601", 
+            "temperatuur": "166", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "54", 
+            "vochtigheid": "93", 
+            "jaar": "20160602", 
+            "temperatuur": "134", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "26", 
+            "vochtigheid": "91", 
+            "jaar": "20160603", 
+            "temperatuur": "150", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "23", 
+            "vochtigheid": "84", 
+            "jaar": "20160604", 
+            "temperatuur": "187", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "75", 
+            "jaar": "20160605", 
+            "temperatuur": "191", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "70", 
+            "jaar": "20160606", 
+            "temperatuur": "188", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "34", 
+            "vochtigheid": "67", 
+            "jaar": "20160607", 
+            "temperatuur": "204", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "76", 
+            "jaar": "20160608", 
+            "temperatuur": "158", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "31", 
+            "vochtigheid": "72", 
+            "jaar": "20160609", 
+            "temperatuur": "145", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "18", 
+            "vochtigheid": "71", 
+            "jaar": "20160610", 
+            "temperatuur": "159", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "19", 
+            "vochtigheid": "85", 
+            "jaar": "20160611", 
+            "temperatuur": "160", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "22", 
+            "vochtigheid": "81", 
+            "jaar": "20160612", 
+            "temperatuur": "172", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "44", 
+            "vochtigheid": "90", 
+            "jaar": "20160613", 
+            "temperatuur": "156", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "37", 
+            "vochtigheid": "89", 
+            "jaar": "20160614", 
+            "temperatuur": "152", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "27", 
+            "vochtigheid": "81", 
+            "jaar": "20160615", 
+            "temperatuur": "151", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "19", 
+            "vochtigheid": "82", 
+            "jaar": "20160616", 
+            "temperatuur": "150", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "18", 
+            "vochtigheid": "87", 
+            "jaar": "20160617", 
+            "temperatuur": "148", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "37", 
+            "vochtigheid": "88", 
+            "jaar": "20160618", 
+            "temperatuur": "133", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "70", 
+            "jaar": "20160619", 
+            "temperatuur": "157", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "59", 
+            "vochtigheid": "94", 
+            "jaar": "20160620", 
+            "temperatuur": "158", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "30", 
+            "vochtigheid": "91", 
+            "jaar": "20160621", 
+            "temperatuur": "164", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "32", 
+            "vochtigheid": "77", 
+            "jaar": "20160622", 
+            "temperatuur": "205", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "26", 
+            "vochtigheid": "91", 
+            "jaar": "20160623", 
+            "temperatuur": "211", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "85", 
+            "jaar": "20160624", 
+            "temperatuur": "184", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "27", 
+            "vochtigheid": "83", 
+            "jaar": "20160625", 
+            "temperatuur": "156", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "47", 
+            "vochtigheid": "77", 
+            "jaar": "20160626", 
+            "temperatuur": "161", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "83", 
+            "jaar": "20160627", 
+            "temperatuur": "156", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "31", 
+            "vochtigheid": "78", 
+            "jaar": "20160628", 
+            "temperatuur": "168", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "65", 
+            "vochtigheid": "78", 
+            "jaar": "20160629", 
+            "temperatuur": "162", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "56", 
+            "vochtigheid": "88", 
+            "jaar": "20160630", 
+            "temperatuur": "164", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "69", 
+            "vochtigheid": "86", 
+            "jaar": "20160701", 
+            "temperatuur": "167", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "65", 
+            "vochtigheid": "73", 
+            "jaar": "20160702", 
+            "temperatuur": "152", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "74", 
+            "jaar": "20160703", 
+            "temperatuur": "158", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "20", 
+            "vochtigheid": "77", 
+            "jaar": "20160704", 
+            "temperatuur": "170", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "56", 
+            "vochtigheid": "85", 
+            "jaar": "20160705", 
+            "temperatuur": "151", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "26", 
+            "vochtigheid": "76", 
+            "jaar": "20160706", 
+            "temperatuur": "153", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "31", 
+            "vochtigheid": "73", 
+            "jaar": "20160707", 
+            "temperatuur": "171", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "52", 
+            "vochtigheid": "81", 
+            "jaar": "20160708", 
+            "temperatuur": "177", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "46", 
+            "vochtigheid": "76", 
+            "jaar": "20160709", 
+            "temperatuur": "196", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "49", 
+            "vochtigheid": "75", 
+            "jaar": "20160710", 
+            "temperatuur": "204", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "88", 
+            "vochtigheid": "73", 
+            "jaar": "20160711", 
+            "temperatuur": "183", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "80", 
+            "jaar": "20160712", 
+            "temperatuur": "169", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "37", 
+            "vochtigheid": "77", 
+            "jaar": "20160713", 
+            "temperatuur": "155", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "73", 
+            "jaar": "20160714", 
+            "temperatuur": "150", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "70", 
+            "jaar": "20160715", 
+            "temperatuur": "169", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "44", 
+            "vochtigheid": "81", 
+            "jaar": "20160716", 
+            "temperatuur": "196", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "81", 
+            "jaar": "20160717", 
+            "temperatuur": "198", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "18", 
+            "vochtigheid": "69", 
+            "jaar": "20160718", 
+            "temperatuur": "209", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "30", 
+            "vochtigheid": "61", 
+            "jaar": "20160719", 
+            "temperatuur": "242", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "43", 
+            "vochtigheid": "64", 
+            "jaar": "20160720", 
+            "temperatuur": "248", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "81", 
+            "jaar": "20160721", 
+            "temperatuur": "206", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "18", 
+            "vochtigheid": "83", 
+            "jaar": "20160722", 
+            "temperatuur": "206", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "26", 
+            "vochtigheid": "84", 
+            "jaar": "20160723", 
+            "temperatuur": "205", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "25", 
+            "vochtigheid": "79", 
+            "jaar": "20160724", 
+            "temperatuur": "203", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "36", 
+            "vochtigheid": "83", 
+            "jaar": "20160725", 
+            "temperatuur": "187", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "23", 
+            "vochtigheid": "72", 
+            "jaar": "20160726", 
+            "temperatuur": "193", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "43", 
+            "vochtigheid": "89", 
+            "jaar": "20160727", 
+            "temperatuur": "178", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "36", 
+            "vochtigheid": "86", 
+            "jaar": "20160728", 
+            "temperatuur": "186", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "54", 
+            "vochtigheid": "82", 
+            "jaar": "20160729", 
+            "temperatuur": "187", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "24", 
+            "vochtigheid": "83", 
+            "jaar": "20160730", 
+            "temperatuur": "184", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "81", 
+            "jaar": "20160731", 
+            "temperatuur": "168", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "36", 
+            "vochtigheid": "75", 
+            "jaar": "20160801", 
+            "temperatuur": "174", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "41", 
+            "vochtigheid": "94", 
+            "jaar": "20160802", 
+            "temperatuur": "169", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "76", 
+            "vochtigheid": "86", 
+            "jaar": "20160803", 
+            "temperatuur": "191", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "63", 
+            "vochtigheid": "79", 
+            "jaar": "20160804", 
+            "temperatuur": "180", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "34", 
+            "vochtigheid": "81", 
+            "jaar": "20160805", 
+            "temperatuur": "178", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "78", 
+            "jaar": "20160806", 
+            "temperatuur": "178", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "63", 
+            "vochtigheid": "82", 
+            "jaar": "20160807", 
+            "temperatuur": "190", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "49", 
+            "vochtigheid": "74", 
+            "jaar": "20160808", 
+            "temperatuur": "172", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "34", 
+            "vochtigheid": "74", 
+            "jaar": "20160809", 
+            "temperatuur": "147", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "29", 
+            "vochtigheid": "76", 
+            "jaar": "20160810", 
+            "temperatuur": "129", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "45", 
+            "vochtigheid": "90", 
+            "jaar": "20160811", 
+            "temperatuur": "147", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "54", 
+            "vochtigheid": "82", 
+            "jaar": "20160812", 
+            "temperatuur": "190", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "86", 
+            "jaar": "20160813", 
+            "temperatuur": "179", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "22", 
+            "vochtigheid": "80", 
+            "jaar": "20160814", 
+            "temperatuur": "174", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "29", 
+            "vochtigheid": "75", 
+            "jaar": "20160815", 
+            "temperatuur": "167", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "76", 
+            "jaar": "20160816", 
+            "temperatuur": "164", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "64", 
+            "jaar": "20160817", 
+            "temperatuur": "180", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "29", 
+            "vochtigheid": "70", 
+            "jaar": "20160818", 
+            "temperatuur": "180", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "80", 
+            "jaar": "20160819", 
+            "temperatuur": "187", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "62", 
+            "vochtigheid": "73", 
+            "jaar": "20160820", 
+            "temperatuur": "184", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "65", 
+            "vochtigheid": "85", 
+            "jaar": "20160821", 
+            "temperatuur": "171", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "62", 
+            "vochtigheid": "81", 
+            "jaar": "20160822", 
+            "temperatuur": "188", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "27", 
+            "vochtigheid": "69", 
+            "jaar": "20160823", 
+            "temperatuur": "224", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "63", 
+            "jaar": "20160824", 
+            "temperatuur": "249", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "23", 
+            "vochtigheid": "68", 
+            "jaar": "20160825", 
+            "temperatuur": "254", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "23", 
+            "vochtigheid": "79", 
+            "jaar": "20160826", 
+            "temperatuur": "208", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "42", 
+            "vochtigheid": "75", 
+            "jaar": "20160827", 
+            "temperatuur": "220", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "55", 
+            "vochtigheid": "82", 
+            "jaar": "20160828", 
+            "temperatuur": "201", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "24", 
+            "vochtigheid": "83", 
+            "jaar": "20160829", 
+            "temperatuur": "170", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "16", 
+            "vochtigheid": "80", 
+            "jaar": "20160830", 
+            "temperatuur": "171", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "22", 
+            "vochtigheid": "76", 
+            "jaar": "20160831", 
+            "temperatuur": "181", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "26", 
+            "vochtigheid": "81", 
+            "jaar": "20160901", 
+            "temperatuur": "185", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "44", 
+            "vochtigheid": "81", 
+            "jaar": "20160902", 
+            "temperatuur": "174", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "43", 
+            "vochtigheid": "80", 
+            "jaar": "20160903", 
+            "temperatuur": "188", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "67", 
+            "vochtigheid": "81", 
+            "jaar": "20160904", 
+            "temperatuur": "184", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "25", 
+            "vochtigheid": "75", 
+            "jaar": "20160905", 
+            "temperatuur": "184", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "25", 
+            "vochtigheid": "86", 
+            "jaar": "20160906", 
+            "temperatuur": "197", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "20", 
+            "vochtigheid": "73", 
+            "jaar": "20160907", 
+            "temperatuur": "199", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "36", 
+            "vochtigheid": "76", 
+            "jaar": "20160908", 
+            "temperatuur": "199", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "31", 
+            "vochtigheid": "76", 
+            "jaar": "20160909", 
+            "temperatuur": "188", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "69", 
+            "jaar": "20160910", 
+            "temperatuur": "199", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "22", 
+            "vochtigheid": "84", 
+            "jaar": "20160911", 
+            "temperatuur": "194", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "23", 
+            "vochtigheid": "74", 
+            "jaar": "20160912", 
+            "temperatuur": "223", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "29", 
+            "vochtigheid": "65", 
+            "jaar": "20160913", 
+            "temperatuur": "245", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "24", 
+            "vochtigheid": "72", 
+            "jaar": "20160914", 
+            "temperatuur": "232", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "72", 
+            "jaar": "20160915", 
+            "temperatuur": "216", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "46", 
+            "vochtigheid": "81", 
+            "jaar": "20160916", 
+            "temperatuur": "181", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "24", 
+            "vochtigheid": "84", 
+            "jaar": "20160917", 
+            "temperatuur": "180", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "80", 
+            "jaar": "20160918", 
+            "temperatuur": "172", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "10", 
+            "vochtigheid": "81", 
+            "jaar": "20160919", 
+            "temperatuur": "148", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "16", 
+            "vochtigheid": "73", 
+            "jaar": "20160920", 
+            "temperatuur": "160", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "23", 
+            "vochtigheid": "75", 
+            "jaar": "20160921", 
+            "temperatuur": "154", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "20", 
+            "vochtigheid": "81", 
+            "jaar": "20160922", 
+            "temperatuur": "157", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "27", 
+            "vochtigheid": "77", 
+            "jaar": "20160923", 
+            "temperatuur": "148", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "42", 
+            "vochtigheid": "63", 
+            "jaar": "20160924", 
+            "temperatuur": "181", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "49", 
+            "vochtigheid": "71", 
+            "jaar": "20160925", 
+            "temperatuur": "168", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "15", 
+            "vochtigheid": "82", 
+            "jaar": "20160926", 
+            "temperatuur": "141", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "69", 
+            "jaar": "20160927", 
+            "temperatuur": "157", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "70", 
+            "vochtigheid": "77", 
+            "jaar": "20160928", 
+            "temperatuur": "184", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "70", 
+            "vochtigheid": "85", 
+            "jaar": "20160929", 
+            "temperatuur": "162", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "43", 
+            "vochtigheid": "74", 
+            "jaar": "20160930", 
+            "temperatuur": "151", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "41", 
+            "vochtigheid": "81", 
+            "jaar": "20161001", 
+            "temperatuur": "139", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "54", 
+            "vochtigheid": "85", 
+            "jaar": "20161002", 
+            "temperatuur": "131", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "83", 
+            "jaar": "20161003", 
+            "temperatuur": "148", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "47", 
+            "vochtigheid": "80", 
+            "jaar": "20161004", 
+            "temperatuur": "128", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "58", 
+            "vochtigheid": "71", 
+            "jaar": "20161005", 
+            "temperatuur": "101", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "44", 
+            "vochtigheid": "75", 
+            "jaar": "20161006", 
+            "temperatuur": "99", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "83", 
+            "jaar": "20161007", 
+            "temperatuur": "118", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "25", 
+            "vochtigheid": "77", 
+            "jaar": "20161008", 
+            "temperatuur": "114", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "13", 
+            "vochtigheid": "84", 
+            "jaar": "20161009", 
+            "temperatuur": "83", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "19", 
+            "vochtigheid": "83", 
+            "jaar": "20161010", 
+            "temperatuur": "79", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "16", 
+            "vochtigheid": "84", 
+            "jaar": "20161011", 
+            "temperatuur": "86", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "51", 
+            "vochtigheid": "80", 
+            "jaar": "20161012", 
+            "temperatuur": "93", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "62", 
+            "vochtigheid": "77", 
+            "jaar": "20161013", 
+            "temperatuur": "92", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "46", 
+            "vochtigheid": "81", 
+            "jaar": "20161014", 
+            "temperatuur": "100", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "88", 
+            "jaar": "20161015", 
+            "temperatuur": "122", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "39", 
+            "vochtigheid": "76", 
+            "jaar": "20161016", 
+            "temperatuur": "146", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "35", 
+            "vochtigheid": "89", 
+            "jaar": "20161017", 
+            "temperatuur": "131", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "53", 
+            "vochtigheid": "85", 
+            "jaar": "20161018", 
+            "temperatuur": "110", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "43", 
+            "vochtigheid": "86", 
+            "jaar": "20161019", 
+            "temperatuur": "98", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "27", 
+            "vochtigheid": "91", 
+            "jaar": "20161020", 
+            "temperatuur": "90", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "15", 
+            "vochtigheid": "91", 
+            "jaar": "20161021", 
+            "temperatuur": "77", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "18", 
+            "vochtigheid": "92", 
+            "jaar": "20161022", 
+            "temperatuur": "61", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "19", 
+            "vochtigheid": "86", 
+            "jaar": "20161023", 
+            "temperatuur": "51", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "30", 
+            "vochtigheid": "90", 
+            "jaar": "20161024", 
+            "temperatuur": "77", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "14", 
+            "vochtigheid": "91", 
+            "jaar": "20161025", 
+            "temperatuur": "92", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "29", 
+            "vochtigheid": "89", 
+            "jaar": "20161026", 
+            "temperatuur": "101", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "44", 
+            "vochtigheid": "92", 
+            "jaar": "20161027", 
+            "temperatuur": "121", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "90", 
+            "jaar": "20161028", 
+            "temperatuur": "137", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "10", 
+            "vochtigheid": "91", 
+            "jaar": "20161029", 
+            "temperatuur": "107", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "11", 
+            "vochtigheid": "92", 
+            "jaar": "20161030", 
+            "temperatuur": "99", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "10", 
+            "vochtigheid": "90", 
+            "jaar": "20161031", 
+            "temperatuur": "90", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "20", 
+            "vochtigheid": "93", 
+            "jaar": "20161101", 
+            "temperatuur": "90", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "85", 
+            "jaar": "20161102", 
+            "temperatuur": "79", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "30", 
+            "vochtigheid": "87", 
+            "jaar": "20161103", 
+            "temperatuur": "81", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "51", 
+            "vochtigheid": "84", 
+            "jaar": "20161104", 
+            "temperatuur": "82", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "31", 
+            "vochtigheid": "88", 
+            "jaar": "20161105", 
+            "temperatuur": "73", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "39", 
+            "vochtigheid": "89", 
+            "jaar": "20161106", 
+            "temperatuur": "71", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "30", 
+            "vochtigheid": "89", 
+            "jaar": "20161107", 
+            "temperatuur": "52", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "91", 
+            "jaar": "20161108", 
+            "temperatuur": "25", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "95", 
+            "jaar": "20161109", 
+            "temperatuur": "39", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "95", 
+            "jaar": "20161110", 
+            "temperatuur": "50", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "28", 
+            "vochtigheid": "88", 
+            "jaar": "20161111", 
+            "temperatuur": "25", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "39", 
+            "vochtigheid": "85", 
+            "jaar": "20161112", 
+            "temperatuur": "27", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "29", 
+            "vochtigheid": "96", 
+            "jaar": "20161113", 
+            "temperatuur": "42", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "38", 
+            "vochtigheid": "98", 
+            "jaar": "20161114", 
+            "temperatuur": "36", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "40", 
+            "vochtigheid": "98", 
+            "jaar": "20161115", 
+            "temperatuur": "117", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "57", 
+            "vochtigheid": "92", 
+            "jaar": "20161116", 
+            "temperatuur": "120", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "66", 
+            "vochtigheid": "88", 
+            "jaar": "20161117", 
+            "temperatuur": "95", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "74", 
+            "vochtigheid": "83", 
+            "jaar": "20161118", 
+            "temperatuur": "64", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "70", 
+            "vochtigheid": "82", 
+            "jaar": "20161119", 
+            "temperatuur": "60", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "88", 
+            "vochtigheid": "82", 
+            "jaar": "20161120", 
+            "temperatuur": "83", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "60", 
+            "vochtigheid": "86", 
+            "jaar": "20161121", 
+            "temperatuur": "122", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "67", 
+            "vochtigheid": "78", 
+            "jaar": "20161122", 
+            "temperatuur": "107", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "32", 
+            "vochtigheid": "94", 
+            "jaar": "20161123", 
+            "temperatuur": "81", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "74", 
+            "vochtigheid": "81", 
+            "jaar": "20161124", 
+            "temperatuur": "70", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "53", 
+            "vochtigheid": "76", 
+            "jaar": "20161125", 
+            "temperatuur": "34", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "15", 
+            "vochtigheid": "93", 
+            "jaar": "20161126", 
+            "temperatuur": "6", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "23", 
+            "vochtigheid": "84", 
+            "jaar": "20161127", 
+            "temperatuur": "67", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "33", 
+            "vochtigheid": "82", 
+            "jaar": "20161128", 
+            "temperatuur": "1", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "14", 
+            "vochtigheid": "83", 
+            "jaar": "20161129", 
+            "temperatuur": "-19", 
+            "plaats": "344"
+        }, 
+        {
+            "windsnelheid": "31", 
+            "vochtigheid": "88", 
+            "jaar": "20161130", 
+            "temperatuur": "34", 
+            "plaats": "344"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+/*Jan Maarten de Vries Student number: 11408731*/
+h1 {
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
+
+legend{
+   font-size: 12pt;
+}
+
+#container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.box{
+  width:40px;
+  height:20px;
+}
+
+/* the legend colors*/
+.zero{
+  background: #ffffff;
+}
+.one{
+  background: #99ff99;
+}
+.two{
+  background: #7fff7f;
+}
+.three{
+  background: #66ff66;
+}
+.four{
+  background: #4cff4c;
+}
+.five{
+  background: #32ff32;
+}
+.six{
+  background: #19ff19;
+}
+.seven{
+  background: #00ff00;
+}
+.eight{
+  background: #00e500;
+}
+.nine{
+  background: #00cc00;
+}
+.ten{
+  background: #00b200;
+}
+.nodata{
+  background: gray;
+}
+
+/* text position */
+div.box p{
+    position: relative;
+    left: 50px;
+    width: 300px;
+    font-size: 12pt;
+}
