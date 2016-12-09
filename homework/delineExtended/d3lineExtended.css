@@ -1,0 +1,79 @@
+/*Jan Maarten de Vries Student number: 11408731*/
+
+/* body font*/
+body {
+  font: 10px sans-serif;
+}
+
+/* boxes for the legend*/
+.box{
+  width:40px;
+  height:3px;
+}
+
+/* the legend*/
+.windspeed{
+  background: steelblue;
+}
+
+.temperature{
+  background: red;
+}
+.humidity{
+  background: green;
+}
+
+/* the drop down menu*/
+.city-list{
+    position: relative;
+    display: inline-block;
+}
+
+/*changing svg position*/
+.svg{
+  position: relative;
+}
+
+/* changing the axis */
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+/*colloring the lines*/
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.line2 {
+  fill: none;
+  stroke: red;
+  stroke-width: 1.5px;
+}
+
+.line3 {
+  fill: none;
+  stroke: green;
+  stroke-width: 1.5px;
+}
+
+/* color and width of the focusline*/
+.focusLine {
+  fill: none;
+  stroke: black;
+  stroke-width: 0.5px;
+}
+
+/* making the focuscircle blue*/
+.focusCircle {
+  fill: steelblue;
+}
+
+/* centering the text*/
+p {
+  text-align: center;
+}
