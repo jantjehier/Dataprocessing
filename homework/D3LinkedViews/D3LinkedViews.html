@@ -1,0 +1,60 @@
+<!-- Jan Maarten de Vries Student number: 11408731 -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>D3linkedViews</title>
+    <link rel="stylesheet" type="text/css" href="D3LinkedViews.css"/>
+    <script src="d3.min.js" charset="utf-8"></script>
+    <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+    <script src="http://datamaps.github.com/scripts/datamaps-all.js"></script>
+    <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+    <script type="text/javascript" src="D3LinkedViews.js"></script>
+  </head>
+
+  <body>
+    <h1>World country population in 2010<h1>
+    <h5> In this visualisation i have chosen for the color green to visualise the country population.
+      When you hover over the data the edges of the countries change to black and the countryname and the population (if available) will show in a label.
+      I have chosen to visualise it in a choropleth because it shows the difference between the values.
+      because the map click functions didnt work i made a last minute change and linked the pie chart to a bar chart.
+      The pie chart shows the total number of man and woman in a country. When you click on the pie chart on the man or woman half a bar chart with the total man or woman population will appear.
+      Bronnen:<h5>
+     <a href="http://www.geohive.com/earth/pop_gender.aspx">2010 data</a>
+     <a href="http://www.worldometers.info/world-population/world-population-gender-age.php">2013 data</a>
+    <div id="container" style="position: relative; width: 1500px; height: 800px;"></div>
+    <div class="box zero"><P>Legend (x10000000):</P></div>
+    <div class="box three"><P><1</P></div>
+    <div class="box four"><P>1 - 2</P></div>
+    <div class="box five"><P>2 - 3</P></div>
+    <div class="box six"><P>3 - 4</P></div>
+    <div class="box seven"><P>4 - 5</P></div>
+    <div class="box eight"><P>5 - 6</P></div>
+    <div class="box nine"><P>6 - 7</P></div>
+    <div class="box ten"><P>7 - 8</P></div>
+    <div class="box eleven"><P>8 - 9></P></div>
+    <div class="box twelfe"><P>9 - 10></P></div>
+    <div class="box thirteen"><P>10 - 20></P></div>
+    <div class="box fourteen"><P>20 - 30></P></div>
+    <div class="box fourteen"><P>30>></P></div>
+    <div class="box nodata"><P>no data</P></div>
+    <h1>Males and females in 2010/2013 totaal/percentage<h1>
+    <select id="dropDown">
+      <option class="k" selected="selected" autocomplete="off" disabled="disabled">Kies Jaar</option>
+      <option class="m" value="2010">2010 (total)</option>
+      <option class="m" value="2013">2013 (%)</option>
+    </select>
+    <div id="chart"></div>
+    <h5>Click on the different pie chart colors to see the bar chart<h5>
+    <div class="box zero"><P>Legend:</P></div>
+    <div class="box one"><P>female</P></div>
+    <div class="box two"><P>male</P></div>
+    <!--<svg width="960" height="500"></svg>-->
+    <h1>Total Males/females by country in 2010<h1>
+    <div id="barChart"></div>
+    <h5>Jan Maarten de Vries UVA Minor programmeren 11408731<h5>
+    <div class="box zero"><P>Legend:</P></div>
+    <div class="box one"><P>female</P></div>
+    <div class="box two"><P>male</P></div>
+  </body>
+</html>

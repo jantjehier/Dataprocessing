@@ -1,0 +1,1002 @@
+[
+        {
+            "country": "China", 
+            "male": "52", 
+            "female": "48"
+        }, 
+        {
+            "country": "India", 
+            "male": "52", 
+            "female": "48"
+        }, 
+        {
+            "country": "United States of America", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Indonesia", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Brazil", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Pakistan", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Nigeria", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Bangladesh", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Russian Federation", 
+            "male": "46", 
+            "female": "54"
+        }, 
+        {
+            "country": "Japan", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Mexico", 
+            "male": "48", 
+            "female": "52"
+        }, 
+        {
+            "country": "Philippines", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Ethiopia", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Viet Nam", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Germany", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Egypt", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Iran (Islamic Republic of)", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Turkey", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Democratic Republic of the Congo", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Thailand", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "France", 
+            "male": "48", 
+            "female": "52"
+        }, 
+        {
+            "country": "United Kingdom", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Italy", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Myanmar", 
+            "male": "49", 
+            "female": "52"
+        }, 
+        {
+            "country": "South Africa", 
+            "male": "49", 
+            "female": "52"
+        }, 
+        {
+            "country": "Republic of Korea", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "United Republic of Tanzania", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Colombia", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Spain", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Ukraine", 
+            "male": "46", 
+            "female": "54"
+        }, 
+        {
+            "country": "Kenya", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Argentina", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Algeria", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Poland", 
+            "male": "48", 
+            "female": "52"
+        }, 
+        {
+            "country": "Sudan", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Uganda", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Canada", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Iraq", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Morocco", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Afghanistan", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Venezuela (Bolivarian Republic of)", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Peru", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Malaysia", 
+            "male": "49", 
+            "female": "52"
+        }, 
+        {
+            "country": "Uzbekistan", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Saudi Arabia", 
+            "male": "58", 
+            "female": "43"
+        }, 
+        {
+            "country": "Nepal", 
+            "male": "48", 
+            "female": "52"
+        }, 
+        {
+            "country": "Ghana", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Mozambique", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Dem. People s Republic of Korea", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Yemen", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Australia", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Madagascar", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Cameroon", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Syrian Arab Republic", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Romania", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Angola", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Sri Lanka", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Cote d Ivoire", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Niger", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Chile", 
+            "male": "50", 
+            "female": "51"
+        }, 
+        {
+            "country": "Burkina Faso", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Netherlands", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Kazakhstan", 
+            "male": "48", 
+            "female": "52"
+        }, 
+        {
+            "country": "Malawi", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Ecuador", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Guatemala", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Mali", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Cambodia", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Zambia", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Zimbabwe", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Senegal", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Chad", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Rwanda", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Guinea", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "South Sudan", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Cuba", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Greece", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Belgium", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Tunisia", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Czech Republic", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Bolivia (Plurinational State of)", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Portugal", 
+            "male": "48", 
+            "female": "52"
+        }, 
+        {
+            "country": "Somalia", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Dominican Republic", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Benin", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Haiti", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Burundi", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Hungary", 
+            "male": "48", 
+            "female": "53"
+        }, 
+        {
+            "country": "Sweden", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Serbia", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Azerbaijan", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Belarus", 
+            "male": "46", 
+            "female": "54"
+        }, 
+        {
+            "country": "United Arab Emirates", 
+            "male": "70", 
+            "female": "30"
+        }, 
+        {
+            "country": "Austria", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Tajikistan", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Honduras", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Switzerland", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Israel", 
+            "male": "50", 
+            "female": "51"
+        }, 
+        {
+            "country": "Papua New Guinea", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Jordan", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Bulgaria", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "China Hong Kong SAR", 
+            "male": "47", 
+            "female": "53"
+        }, 
+        {
+            "country": "Togo", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Paraguay", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Lao People s Democratic Republic", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "El Salvador", 
+            "male": "47", 
+            "female": "53"
+        }, 
+        {
+            "country": "Eritrea", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Libya", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Sierra Leone", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Nicaragua", 
+            "male": "50", 
+            "female": "51"
+        }, 
+        {
+            "country": "Denmark", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Kyrgyzstan", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Slovakia", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Finland", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Singapore", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Turkmenistan", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Norway", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Costa Rica", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Lebanon", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Ireland", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Central African Republic", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "New Zealand", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Congo", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Georgia", 
+            "male": "47", 
+            "female": "53"
+        }, 
+        {
+            "country": "State of Palestine", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Liberia", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Croatia", 
+            "male": "48", 
+            "female": "52"
+        }, 
+        {
+            "country": "Mauritania", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Panama", 
+            "male": "51", 
+            "female": "50"
+        }, 
+        {
+            "country": "Bosnia and Herzegovina", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Puerto Rico", 
+            "male": "48", 
+            "female": "52"
+        }, 
+        {
+            "country": "Oman", 
+            "male": "64", 
+            "female": "36"
+        }, 
+        {
+            "country": "Republic of Moldova", 
+            "male": "47", 
+            "female": "53"
+        }, 
+        {
+            "country": "Uruguay", 
+            "male": "48", 
+            "female": "52"
+        }, 
+        {
+            "country": "Kuwait", 
+            "male": "60", 
+            "female": "40"
+        }, 
+        {
+            "country": "Albania", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Lithuania", 
+            "male": "46", 
+            "female": "54"
+        }, 
+        {
+            "country": "Armenia", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Mongolia", 
+            "male": "50", 
+            "female": "51"
+        }, 
+        {
+            "country": "Jamaica", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Namibia", 
+            "male": "49", 
+            "female": "52"
+        }, 
+        {
+            "country": "Qatar", 
+            "male": "77", 
+            "female": "24"
+        }, 
+        {
+            "country": "TFYR Macedonia", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Lesotho", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Slovenia", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Latvia", 
+            "male": "46", 
+            "female": "54"
+        }, 
+        {
+            "country": "Botswana", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Gambia", 
+            "male": "50", 
+            "female": "51"
+        }, 
+        {
+            "country": "Guinea-Bissau", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Gabon", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Trinidad and Tobago", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Bahrain", 
+            "male": "62", 
+            "female": "38"
+        }, 
+        {
+            "country": "Estonia", 
+            "male": "46", 
+            "female": "54"
+        }, 
+        {
+            "country": "Swaziland", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Mauritius", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Cyprus", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Timor-Leste", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Fiji", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Reunion", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Djibouti", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Guyana", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Equatorial Guinea", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Bhutan", 
+            "male": "54", 
+            "female": "46"
+        }, 
+        {
+            "country": "Comoros", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Montenegro", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Western Sahara", 
+            "male": "53", 
+            "female": "47"
+        }, 
+        {
+            "country": "China Macao SAR", 
+            "male": "48", 
+            "female": "52"
+        }, 
+        {
+            "country": "Solomon Islands", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Suriname", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Luxembourg", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Cape Verde", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Guadeloupe", 
+            "male": "47", 
+            "female": "53"
+        }, 
+        {
+            "country": "Malta", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Brunei Darussalam", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Martinique", 
+            "male": "46", 
+            "female": "54"
+        }, 
+        {
+            "country": "Bahamas", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Maldives", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Belize", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Iceland", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Barbados", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "French Polynesia", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "New Caledonia", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Vanuatu", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "French Guiana", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Mayotte", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Sao Tome and Principe", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Samoa", 
+            "male": "52", 
+            "female": "48"
+        }, 
+        {
+            "country": "Saint Lucia", 
+            "male": "49", 
+            "female": "51"
+        }, 
+        {
+            "country": "Guam", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Channel Islands", 
+            "male": "50", 
+            "female": "51"
+        }, 
+        {
+            "country": "Curacao", 
+            "male": "45", 
+            "female": "55"
+        }, 
+        {
+            "country": "Saint Vincent and the Grenadines", 
+            "male": "51", 
+            "female": "50"
+        }, 
+        {
+            "country": "United States Virgin Islands", 
+            "male": "48", 
+            "female": "52"
+        }, 
+        {
+            "country": "Grenada", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Tonga", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Micronesia (Fed. States of)", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Aruba", 
+            "male": "48", 
+            "female": "52"
+        }, 
+        {
+            "country": "Kiribati", 
+            "male": "50", 
+            "female": "50"
+        }, 
+        {
+            "country": "Seychelles", 
+            "male": "51", 
+            "female": "49"
+        }, 
+        {
+            "country": "Antigua and Barbuda", 
+            "male": "48", 
+            "female": "52"
+        }
+]

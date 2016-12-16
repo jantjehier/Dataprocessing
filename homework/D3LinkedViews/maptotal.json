@@ -1,0 +1,738 @@
+[
+        {
+            "country": "Afghanistan",
+            "total": "31411743"
+        },
+        {
+            "country": "Albania",
+            "total": "3204284"
+        },
+        {
+            "country": "Algeria",
+            "total": "35468208"
+        },
+        {
+            "country": "Angola",
+            "total": "19081912"
+        },
+        {
+            "country": "Argentina",
+            "total": "40412376"
+        },
+        {
+            "country": "Armenia",
+            "total": "3092072"
+        },
+        {
+            "country": "Australia",
+            "total": "22268384"
+        },
+        {
+            "country": "Austria",
+            "total": "8393644"
+        },
+        {
+            "country": "Azerbaijan",
+            "total": "9187783"
+        },
+        {
+            "country": "Bahamas",
+            "total": "342877"
+        },
+        {
+            "country": "Bahrain",
+            "total": "1261835"
+        },
+        {
+            "country": "Bangladesh",
+            "total": "148692131"
+        },
+        {
+            "country": "Barbados",
+            "total": "273331"
+        },
+        {
+            "country": "Belarus",
+            "total": "9595421"
+        },
+        {
+            "country": "Belgium",
+            "total": "10712066"
+        },
+        {
+            "country": "Belize",
+            "total": "311627"
+        },
+        {
+            "country": "Benin",
+            "total": "8849892"
+        },
+        {
+            "country": "Bhutan",
+            "total": "72594"
+        },
+        {
+            "country": "Bolivia",
+            "total": "9929849"
+        },
+        {
+            "country": "Bosnia and Herzegovina",
+            "total": "3760149"
+        },
+        {
+            "country": "Botswana",
+            "total": "2006945"
+        },
+        {
+            "country": "Brazil",
+            "total": "194946470"
+        },
+        {
+            "country": "Brunei Darussalam",
+            "total": "39892"
+        },
+        {
+            "country": "Bulgaria",
+            "total": "7494332"
+        },
+        {
+            "country": "Burkina Faso",
+            "total": "16468714"
+        },
+        {
+            "country": "Burundi",
+            "total": "8382849"
+        },
+        {
+            "country": "Cambodia",
+            "total": "14138255"
+        },
+        {
+            "country": "Cameroon",
+            "total": "19598889"
+        },
+        {
+            "country": "Canada",
+            "total": "34016593"
+        },
+        {
+            "country": "Cape Verde",
+            "total": "495999"
+        },
+        {
+            "country": "Central African Republic",
+            "total": "4401051"
+        },
+        {
+            "country": "Chad",
+            "total": "11227208"
+        },
+        {
+            "country": "Chile",
+            "total": "17113688"
+        },
+        {
+            "country": "China",
+            "total": "1341335152"
+        },
+        {
+            "country": "China Hong Kong SAR",
+            "total": "7053189"
+        },
+        {
+            "country": "China Macao SAR",
+            "total": "543656"
+        },
+        {
+            "country": "Colombia",
+            "total": "46294841"
+        },
+        {
+            "country": "Comoros",
+            "total": "73475"
+        },
+        {
+            "country": "Congo",
+            "total": "4042899"
+        },
+        {
+            "country": "Congo the Democratic Republic of the",
+            "total": "65965795"
+        },
+        {
+            "country": "Costa Rica",
+            "total": "4658887"
+        },
+        {
+            "country": "Croatia",
+            "total": "4403330"
+        },
+        {
+            "country": "Cuba",
+            "total": "11257979"
+        },
+        {
+            "country": "Cyprus",
+            "total": "1103647"
+        },
+        {
+            "country": "Czech Republic",
+            "total": "10492960"
+        },
+        {
+            "country": "Cote dIvoire",
+            "total": "19737800"
+        },
+        {
+            "country": "Denmark",
+            "total": "5550142"
+        },
+        {
+            "country": "Djibouti",
+            "total": "888716"
+        },
+        {
+            "country": "Dominican Republic",
+            "total": "9927320"
+        },
+        {
+            "country": "Ecuador",
+            "total": "14464739"
+        },
+        {
+            "country": "Egypt",
+            "total": "81121077"
+        },
+        {
+            "country": "El Salvador",
+            "total": "6192993"
+        },
+        {
+            "country": "Equatorial Guinea",
+            "total": "700401"
+        },
+        {
+            "country": "Eritrea",
+            "total": "5253676"
+        },
+        {
+            "country": "Estonia",
+            "total": "1341140"
+        },
+        {
+            "country": "Ethiopia",
+            "total": "82949541"
+        },
+        {
+            "country": "Fiji",
+            "total": "860623"
+        },
+        {
+            "country": "Finland",
+            "total": "5364546"
+        },
+        {
+            "country": "France",
+            "total": "62787427"
+        },
+        {
+            "country": "French Guiana",
+            "total": "231151"
+        },
+        {
+            "country": "French Polynesia",
+            "total": "270764"
+        },
+        {
+            "country": "Gabon",
+            "total": "1505463"
+        },
+        {
+            "country": "Gambia",
+            "total": "1728394"
+        },
+        {
+            "country": "Georgia",
+            "total": "4352244"
+        },
+        {
+            "country": "Germany",
+            "total": "82302465"
+        },
+        {
+            "country": "Ghana",
+            "total": "24391823"
+        },
+        {
+            "country": "Greece",
+            "total": "11359346"
+        },
+        {
+            "country": "Guadeloupe",
+            "total": "460666"
+        },
+        {
+            "country": "Guatemala",
+            "total": "14388929"
+        },
+        {
+            "country": "Guinea",
+            "total": "9981590"
+        },
+        {
+            "country": "Guinea-Bissau",
+            "total": "1515224"
+        },
+        {
+            "country": "Guyana",
+            "total": "754493"
+        },
+        {
+            "country": "Haiti",
+            "total": "9993247"
+        },
+        {
+            "country": "Honduras",
+            "total": "7600524"
+        },
+        {
+            "country": "Hungary",
+            "total": "9983645"
+        },
+        {
+            "country": "Iceland",
+            "total": "320136"
+        },
+        {
+            "country": "India",
+            "total": "1224614327"
+        },
+        {
+            "country": "Indonesia",
+            "total": "239870937"
+        },
+        {
+            "country": "Iran",
+            "total": "73973630"
+        },
+        {
+            "country": "Iraq",
+            "total": "31671591"
+        },
+        {
+            "country": "Ireland",
+            "total": "4469900"
+        },
+        {
+            "country": "Israel",
+            "total": "7418400"
+        },
+        {
+            "country": "Italy",
+            "total": "60550848"
+        },
+        {
+            "country": "Jamaica",
+            "total": "2741052"
+        },
+        {
+            "country": "Japan",
+            "total": "126535920"
+        },
+        {
+            "country": "Jordan",
+            "total": "6187227"
+        },
+        {
+            "country": "Kazakhstan",
+            "total": "16026367"
+        },
+        {
+            "country": "Kenya",
+            "total": "40512682"
+        },
+        {
+            "country": "North Korea",
+            "total": "24346229"
+        },
+        {
+            "country": "South Korea",
+            "total": "48183584"
+        },
+        {
+            "country": "Kuwait",
+            "total": "2736732"
+        },
+        {
+            "country": "Kyrgyzstan",
+            "total": "5334223"
+        },
+        {
+            "country": "Lao Peoples Democratic Republic",
+            "total": "6200894"
+        },
+        {
+            "country": "Latvia",
+            "total": "2252060"
+        },
+        {
+            "country": "Lebanon",
+            "total": "4227597"
+        },
+        {
+            "country": "Lesotho",
+            "total": "2171318"
+        },
+        {
+            "country": "Liberia",
+            "total": "3994122"
+        },
+        {
+            "country": "Libya",
+            "total": "6355112"
+        },
+        {
+            "country": "Lithuania",
+            "total": "3323611"
+        },
+        {
+            "country": "Luxembourg",
+            "total": "507448"
+        },
+        {
+            "country": "Macedonia",
+            "total": "2060563"
+        },
+        {
+            "country": "Madagascar",
+            "total": "20713819"
+        },
+        {
+            "country": "Malawi",
+            "total": "14900841"
+        },
+        {
+            "country": "Malaysia",
+            "total": "28401017"
+        },
+        {
+            "country": "Maldives",
+            "total": "315885"
+        },
+        {
+            "country": "Mali",
+            "total": "15369809"
+        },
+        {
+            "country": "Malta",
+            "total": "416515"
+        },
+        {
+            "country": "Martinique",
+            "total": "405814"
+        },
+        {
+            "country": "Mauritania",
+            "total": "3459773"
+        },
+        {
+            "country": "Mauritius",
+            "total": "1299172"
+        },
+        {
+            "country": "Mayotte",
+            "total": "204114"
+        },
+        {
+            "country": "Mexico",
+            "total": "113423047"
+        },
+        {
+            "country": "Moldova Republic of",
+            "total": "3572885"
+        },
+        {
+            "country": "Mongolia",
+            "total": "2756001"
+        },
+        {
+            "country": "Montenegro",
+            "total": "63149"
+        },
+        {
+            "country": "Morocco",
+            "total": "32481912"
+        },
+        {
+            "country": "Mozambique",
+            "total": "23390765"
+        },
+        {
+            "country": "Myanmar",
+            "total": "47963012"
+        },
+        {
+            "country": "Namibia",
+            "total": "2283289"
+        },
+        {
+            "country": "Nepal",
+            "total": "29959364"
+        },
+        {
+            "country": "Netherlands",
+            "total": "16612988"
+        },
+        {
+            "country": "New Caledonia",
+            "total": "25087"
+        },
+        {
+            "country": "New Zealand",
+            "total": "4368136"
+        },
+        {
+            "country": "Nicaragua",
+            "total": "5788163"
+        },
+        {
+            "country": "Niger",
+            "total": "15511953"
+        },
+        {
+            "country": "Nigeria",
+            "total": "158423182"
+        },
+        {
+            "country": "Norway",
+            "total": "4883111"
+        },
+        {
+            "country": "Oman",
+            "total": "2782435"
+        },
+        {
+            "country": "Pakistan",
+            "total": "173593383"
+        },
+        {
+            "country": "Palestine State of",
+            "total": "4039192"
+        },
+        {
+            "country": "Panama",
+            "total": "3516820"
+        },
+        {
+            "country": "Papua New Guinea",
+            "total": "6858266"
+        },
+        {
+            "country": "Paraguay",
+            "total": "6454548"
+        },
+        {
+            "country": "Peru",
+            "total": "29076512"
+        },
+        {
+            "country": "Philippines",
+            "total": "93260798"
+        },
+        {
+            "country": "Poland",
+            "total": "38276660"
+        },
+        {
+            "country": "Portugal",
+            "total": "10675572"
+        },
+        {
+            "country": "Puerto Rico",
+            "total": "3749009"
+        },
+        {
+            "country": "Qatar",
+            "total": "1758793"
+        },
+        {
+            "country": "Romania",
+            "total": "21486371"
+        },
+        {
+            "country": "Russia",
+            "total": "142958164"
+        },
+        {
+            "country": "Rwanda",
+            "total": "10624005"
+        },
+        {
+            "country": "Reunion",
+            "total": "846068"
+        },
+        {
+            "country": "Saudi Arabia",
+            "total": "27448086"
+        },
+        {
+            "country": "Senegal",
+            "total": "12433728"
+        },
+        {
+            "country": "Serbia",
+            "total": "9856222"
+        },
+        {
+            "country": "Sierra Leone",
+            "total": "5867536"
+        },
+        {
+            "country": "Singapore",
+            "total": "5086418"
+        },
+        {
+            "country": "Slovakia",
+            "total": "5462119"
+        },
+        {
+            "country": "Slovenia",
+            "total": "2029680"
+        },
+        {
+            "country": "Solomon Islands",
+            "total": "538148"
+        },
+        {
+            "country": "Somalia",
+            "total": "9330872"
+        },
+        {
+            "country": "South Africa",
+            "total": "50132817"
+        },
+        {
+            "country": "Spain",
+            "total": "46076989"
+        },
+        {
+            "country": "Sri Lanka",
+            "total": "20859949"
+        },
+        {
+            "country": "Sudan",
+            "total": "43551941"
+        },
+        {
+            "country": "Suriname",
+            "total": "524636"
+        },
+        {
+            "country": "Swaziland",
+            "total": "1186056"
+        },
+        {
+            "country": "Sweden",
+            "total": "9379687"
+        },
+        {
+            "country": "Switzerland",
+            "total": "7664318"
+        },
+        {
+            "country": "Syrian Arab Republic",
+            "total": "20410606"
+        },
+        {
+            "country": "Taiwan",
+            "total": "23216236"
+        },
+        {
+            "country": "Tajikistan",
+            "total": "6878637"
+        },
+        {
+            "country": "Tanzania United Republic of",
+            "total": "44841226"
+        },
+        {
+            "country": "Thailand",
+            "total": "69122234"
+        },
+        {
+            "country": "Timor-Leste",
+            "total": "1124355"
+        },
+        {
+            "country": "Togo",
+            "total": "6027798"
+        },
+        {
+            "country": "Trinidad and Tobago",
+            "total": "1341465"
+        },
+        {
+            "country": "Tunisia",
+            "total": "10480934"
+        },
+        {
+            "country": "Turkey",
+            "total": "72752325"
+        },
+        {
+            "country": "Turkmenistan",
+            "total": "5041995"
+        },
+        {
+            "country": "Uganda",
+            "total": "33424683"
+        },
+        {
+            "country": "Ukraine",
+            "total": "45448329"
+        },
+        {
+            "country": "United Arab Emirates",
+            "total": "7511690"
+        },
+        {
+            "country": "United Kingdom",
+            "total": "62035570"
+        },
+        {
+            "country": "United States",
+            "total": "310383948"
+        },
+        {
+            "country": "Uruguay",
+            "total": "3368786"
+        },
+        {
+            "country": "Uzbekistan",
+            "total": "27444702"
+        },
+        {
+            "country": "Vanuatu",
+            "total": "239651"
+        },
+        {
+            "country": "Venezuela (Bolivarian Republic of)",
+            "total": "28979857"
+        },
+        {
+            "country": "Viet Nam",
+            "total": "87848445"
+        },
+        {
+            "country": "Yemen",
+            "total": "24052514"
+        },
+        {
+            "country": "Zambia",
+            "total": "13088570"
+        },
+        {
+            "country": "Zimbabwe",
+            "total": "12571454"
+        }
+]

@@ -1,0 +1,111 @@
+/*Jan Maarten de Vries Student number: 11408731*/
+
+/* axis style*/
+.axis {
+	  font: 10px sans-serif;
+	}
+
+	.axis path,
+	.axis line {
+	  fill: none;
+	  stroke: #000;
+	  shape-rendering: crispEdges;
+	}
+
+/* pie chart*/
+.slice text {
+            font-size: 16pt;
+            font-family: Arial;
+            color: black;
+        }
+
+
+.arc text {
+  font: 20px sans-serif;
+  text-anchor: middle;
+}
+
+.arc path {
+  stroke: #fff;
+}
+
+/* html text*/
+h1 {
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
+
+#container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+/* legend */
+.box{
+  width:40px;
+  height:20px;
+}
+
+/* the legend colors*/
+.zero{
+  background: white;
+}
+.one{
+  background: pink;
+}
+.two{
+  background: aquamarine;
+}
+.three{
+  background: #b3ffb3;
+}
+.four{
+  background: #80ff80;
+}
+.five{
+  background: #4dff4d;
+}
+.six{
+  background: #1aff1a;
+}
+.seven{
+  background: #00ff00;
+}
+.eight{
+  background: #00e600;
+}
+.nine{
+  background: #00cc00;
+}
+.ten{
+  background: #00b300;
+}
+.eleven{
+  background: #009900;
+}
+.twelfe{
+  background: #008000;
+}
+.thirteen{
+  background: #004d00;
+}
+.fourteen{
+  background: #003300;
+}
+.fifteen{
+  background: #001a00;
+}
+.nodata{
+  background: gray;
+}
+
+/* text position */
+div.box p{
+    position: relative;
+    left: 50px;
+    width: 300px;
+    font-size: 12pt;
+}

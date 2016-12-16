@@ -1,0 +1,922 @@
+[
+        {
+            "country": "Afghanistan",
+            "male": "16251571",
+            "female": "15160172"
+        },
+        {
+            "country": "Albania",
+            "male": "1604596",
+            "female": "1599688"
+        },
+        {
+            "country": "Algeria",
+            "male": "17900344",
+            "female": "17567864"
+        },
+        {
+            "country": "Angola",
+            "male": "9449837",
+            "female": "9632075"
+        },
+        {
+            "country": "Argentina",
+            "male": "19768407",
+            "female": "20643969"
+        },
+        {
+            "country": "Armenia",
+            "male": "1439180",
+            "female": "1652892"
+        },
+        {
+            "country": "Australia",
+            "male": "11092660",
+            "female": "11175724"
+        },
+        {
+            "country": "Austria",
+            "male": "4095508",
+            "female": "4298136"
+        },
+        {
+            "country": "Azerbaijan",
+            "male": "4543839",
+            "female": "4643944"
+        },
+        {
+            "country": "Bahamas",
+            "male": "167646",
+            "female": "175231"
+        },
+        {
+            "country": "Bahrain",
+            "male": "787836",
+            "female": "473999"
+        },
+        {
+            "country": "Bangladesh",
+            "male": "75308800",
+            "female": "73383331"
+        },
+        {
+            "country": "Barbados",
+            "male": "13565",
+            "female": "137681"
+        },
+        {
+            "country": "Belarus",
+            "male": "4462326",
+            "female": "5133095"
+        },
+        {
+            "country": "Belgium",
+            "male": "5250531",
+            "female": "5461535"
+        },
+        {
+            "country": "Belize",
+            "male": "153694",
+            "female": "157933"
+        },
+        {
+            "country": "Benin",
+            "male": "4363677",
+            "female": "4486215"
+        },
+        {
+            "country": "Bhutan",
+            "male": "384264",
+            "female": "341676"
+        },
+        {
+            "country": "Bolivia",
+            "male": "4952471",
+            "female": "4977378"
+        },
+        {
+            "country": "Bosnia and Herzegovina",
+            "male": "1807413",
+            "female": "1952736"
+        },
+        {
+            "country": "Botswana",
+            "male": "1011853",
+            "female": "995092"
+        },
+        {
+            "country": "Brazil",
+            "male": "95937239",
+            "female": "99009231"
+        },
+        {
+            "country": "Brunei Darussalam",
+            "male": "201562",
+            "female": "197358"
+        },
+        {
+            "country": "Bulgaria",
+            "male": "3622669",
+            "female": "3871663"
+        },
+        {
+            "country": "Burkina Faso",
+            "male": "8172271",
+            "female": "8296443"
+        },
+        {
+            "country": "Burundi",
+            "male": "4113382",
+            "female": "4269467"
+        },
+        {
+            "country": "Cambodia",
+            "male": "6916582",
+            "female": "7221673"
+        },
+        {
+            "country": "Cameroon",
+            "male": "9782551",
+            "female": "9816338"
+        },
+        {
+            "country": "Canada",
+            "male": "16869134",
+            "female": "17147459"
+        },
+        {
+            "country": "Cape Verde",
+            "male": "245454",
+            "female": "250545"
+        },
+        {
+            "country": "Central African Republic",
+            "male": "2167862",
+            "female": "2233189"
+        },
+        {
+            "country": "Chad",
+            "male": "5582331",
+            "female": "5644877"
+        },
+        {
+            "country": "Chile",
+            "male": "8461864",
+            "female": "8651824"
+        },
+        {
+            "country": "China",
+            "male": "696340752",
+            "female": "644994400"
+        },
+        {
+            "country": "China Hong Kong SAR",
+            "male": "3341850",
+            "female": "3711339"
+        },
+        {
+            "country": "China Macao SAR",
+            "male": "261028",
+            "female": "282628"
+        },
+        {
+            "country": "Colombia",
+            "male": "22774767",
+            "female": "23520074"
+        },
+        {
+            "country": "Comoros",
+            "male": "36997",
+            "female": "36478"
+        },
+        {
+            "country": "Congo",
+            "male": "2023593",
+            "female": "2019306"
+        },
+        {
+            "country": "Congo the Democratic Republic of the",
+            "male": "32808299",
+            "female": "33157496"
+        },
+        {
+            "country": "Costa Rica",
+            "male": "2365251",
+            "female": "2293636"
+        },
+        {
+            "country": "Croatia",
+            "male": "2119803",
+            "female": "2283527"
+        },
+        {
+            "country": "Cuba",
+            "male": "5662428",
+            "female": "5595551"
+        },
+        {
+            "country": "Cyprus",
+            "male": "56335",
+            "female": "540297"
+        },
+        {
+            "country": "Czech Republic",
+            "male": "5146776",
+            "female": "5346184"
+        },
+        {
+            "country": "Cote dIvoire",
+            "male": "10057520",
+            "female": "9680280"
+        },
+        {
+            "country": "Denmark",
+            "male": "2751559",
+            "female": "2798583"
+        },
+        {
+            "country": "Djibouti",
+            "male": "44455",
+            "female": "444166"
+        },
+        {
+            "country": "Dominican Republic",
+            "male": "4980038",
+            "female": "4947282"
+        },
+        {
+            "country": "Ecuador",
+            "male": "7244774",
+            "female": "7219965"
+        },
+        {
+            "country": "Egypt",
+            "male": "40733602",
+            "female": "40387475"
+        },
+        {
+            "country": "El Salvador",
+            "male": "2941733",
+            "female": "3251260"
+        },
+        {
+            "country": "Equatorial Guinea",
+            "male": "358993",
+            "female": "341408"
+        },
+        {
+            "country": "Eritrea",
+            "male": "2587643",
+            "female": "2666033"
+        },
+        {
+            "country": "Estonia",
+            "male": "618151",
+            "female": "722989"
+        },
+        {
+            "country": "Ethiopia",
+            "male": "41281577",
+            "female": "41667964"
+        },
+        {
+            "country": "Fiji",
+            "male": "439258",
+            "female": "421365"
+        },
+        {
+            "country": "Finland",
+            "male": "2632309",
+            "female": "2732237"
+        },
+        {
+            "country": "France",
+            "male": "30548615",
+            "female": "32238812"
+        },
+        {
+            "country": "French Guiana",
+            "male": "115727",
+            "female": "115424"
+        },
+        {
+            "country": "French Polynesia",
+            "male": "138682",
+            "female": "132082"
+        },
+        {
+            "country": "Gabon",
+            "male": "755009",
+            "female": "750454"
+        },
+        {
+            "country": "Gambia",
+            "male": "853517",
+            "female": "874877"
+        },
+        {
+            "country": "Georgia",
+            "male": "2049943",
+            "female": "2302301"
+        },
+        {
+            "country": "Germany",
+            "male": "40340771",
+            "female": "41961694"
+        },
+        {
+            "country": "Ghana",
+            "male": "12408881",
+            "female": "11982942"
+        },
+        {
+            "country": "Greece",
+            "male": "5619513",
+            "female": "5739833"
+        },
+        {
+            "country": "Guadeloupe",
+            "male": "217362",
+            "female": "243304"
+        },
+        {
+            "country": "Guatemala",
+            "male": "7011884",
+            "female": "7377045"
+        },
+        {
+            "country": "Guinea",
+            "male": "5043621",
+            "female": "4937969"
+        },
+        {
+            "country": "Guinea-Bissau",
+            "male": "750966",
+            "female": "764258"
+        },
+        {
+            "country": "Guyana",
+            "male": "378988",
+            "female": "375505"
+        },
+        {
+            "country": "Haiti",
+            "male": "4956750",
+            "female": "5036497"
+        },
+        {
+            "country": "Honduras",
+            "male": "3798136",
+            "female": "3802388"
+        },
+        {
+            "country": "Hungary",
+            "male": "4739632",
+            "female": "5244013"
+        },
+        {
+            "country": "Iceland",
+            "male": "161227",
+            "female": "158909"
+        },
+        {
+            "country": "India",
+            "male": "632546781",
+            "female": "592067546"
+        },
+        {
+            "country": "Indonesia",
+            "male": "119622439",
+            "female": "120248498"
+        },
+        {
+            "country": "Iran",
+            "male": "37541222",
+            "female": "36432408"
+        },
+        {
+            "country": "Iraq",
+            "male": "15886849",
+            "female": "15784742"
+        },
+        {
+            "country": "Ireland",
+            "male": "2236442",
+            "female": "2233458"
+        },
+        {
+            "country": "Israel",
+            "male": "3660623",
+            "female": "3757777"
+        },
+        {
+            "country": "Italy",
+            "male": "29615920",
+            "female": "30934928"
+        },
+        {
+            "country": "Jamaica",
+            "male": "1348906",
+            "female": "1392146"
+        },
+        {
+            "country": "Japan",
+            "male": "61654165",
+            "female": "64881755"
+        },
+        {
+            "country": "Jordan",
+            "male": "3182231",
+            "female": "3004996"
+        },
+        {
+            "country": "Kazakhstan",
+            "male": "7694628",
+            "female": "8331739"
+        },
+        {
+            "country": "Kenya",
+            "male": "20233701",
+            "female": "20278981"
+        },
+        {
+            "country": "North Korea",
+            "male": "11944269",
+            "female": "12401960"
+        },
+        {
+            "country": "South Korea",
+            "male": "24019721",
+            "female": "24163863"
+        },
+        {
+            "country": "Kuwait",
+            "male": "1633272",
+            "female": "1103460"
+        },
+        {
+            "country": "Kyrgyzstan",
+            "male": "2631746",
+            "female": "2702477"
+        },
+        {
+            "country": "Lao Peoples Democratic Republic",
+            "male": "3093844",
+            "female": "3107050"
+        },
+        {
+            "country": "Latvia",
+            "male": "1035788",
+            "female": "1216272"
+        },
+        {
+            "country": "Lebanon",
+            "male": "2064140",
+            "female": "2163457"
+        },
+        {
+            "country": "Lesotho",
+            "male": "1067126",
+            "female": "1104192"
+        },
+        {
+            "country": "Liberia",
+            "male": "2006653",
+            "female": "1987469"
+        },
+        {
+            "country": "Libya",
+            "male": "3222770",
+            "female": "3132342"
+        },
+        {
+            "country": "Lithuania",
+            "male": "1544170",
+            "female": "1779441"
+        },
+        {
+            "country": "Luxembourg",
+            "male": "252248",
+            "female": "2552"
+        },
+        {
+            "country": "Macedonia",
+            "male": "1032166",
+            "female": "1028397"
+        },
+        {
+            "country": "Madagascar",
+            "male": "10325539",
+            "female": "10388280"
+        },
+        {
+            "country": "Malawi",
+            "male": "7454790",
+            "female": "7446051"
+        },
+        {
+            "country": "Malaysia",
+            "male": "14407367",
+            "female": "13993650"
+        },
+        {
+            "country": "Maldives",
+            "male": "159276",
+            "female": "156609"
+        },
+        {
+            "country": "Mali",
+            "male": "7678781",
+            "female": "7691028"
+        },
+        {
+            "country": "Malta",
+            "male": "206639",
+            "female": "209876"
+        },
+        {
+            "country": "Martinique",
+            "male": "189652",
+            "female": "216162"
+        },
+        {
+            "country": "Mauritania",
+            "male": "1738627",
+            "female": "1721146"
+        },
+        {
+            "country": "Mauritius",
+            "male": "641721",
+            "female": "657451"
+        },
+        {
+            "country": "Mayotte",
+            "male": "101778",
+            "female": "102336"
+        },
+        {
+            "country": "Mexico",
+            "male": "55933041",
+            "female": "57490006"
+        },
+        {
+            "country": "Moldova Republic of",
+            "male": "1695289",
+            "female": "1877596"
+        },
+        {
+            "country": "Mongolia",
+            "male": "1360722",
+            "female": "1395279"
+        },
+        {
+            "country": "Montenegro",
+            "male": "309863",
+            "female": "321627"
+        },
+        {
+            "country": "Morocco",
+            "male": "15949320",
+            "female": "16532592"
+        },
+        {
+            "country": "Mozambique",
+            "male": "11380424",
+            "female": "12010341"
+        },
+        {
+            "country": "Myanmar",
+            "male": "23639885",
+            "female": "24323127"
+        },
+        {
+            "country": "Namibia",
+            "male": "1133991",
+            "female": "1149298"
+        },
+        {
+            "country": "Nepal",
+            "male": "14862219",
+            "female": "15097145"
+        },
+        {
+            "country": "Netherlands",
+            "male": "8243443",
+            "female": "8369545"
+        },
+        {
+            "country": "New Caledonia",
+            "male": "125548",
+            "female": "125322"
+        },
+        {
+            "country": "New Zealand",
+            "male": "2144855",
+            "female": "2223281"
+        },
+        {
+            "country": "Nicaragua",
+            "male": "2863579",
+            "female": "2924584"
+        },
+        {
+            "country": "Niger",
+            "male": "7801712",
+            "female": "7710241"
+        },
+        {
+            "country": "Nigeria",
+            "male": "80201003",
+            "female": "78222179"
+        },
+        {
+            "country": "Norway",
+            "male": "2442819",
+            "female": "2440292"
+        },
+        {
+            "country": "Oman",
+            "male": "1633725",
+            "female": "1148710"
+        },
+        {
+            "country": "Pakistan",
+            "male": "88236978",
+            "female": "85356405"
+        },
+        {
+            "country": "Palestine State of",
+            "male": "2050014",
+            "female": "1989178"
+        },
+        {
+            "country": "Panama",
+            "male": "1771820",
+            "female": "1745000"
+        },
+        {
+            "country": "Papua New Guinea",
+            "male": "3498287",
+            "female": "3359979"
+        },
+        {
+            "country": "Paraguay",
+            "male": "3256382",
+            "female": "3198166"
+        },
+        {
+            "country": "Peru",
+            "male": "14570121",
+            "female": "14506391"
+        },
+        {
+            "country": "Philippines",
+            "male": "46783748",
+            "female": "46477050"
+        },
+        {
+            "country": "Poland",
+            "male": "18466775",
+            "female": "19809885"
+        },
+        {
+            "country": "Portugal",
+            "male": "5171286",
+            "female": "5504286"
+        },
+        {
+            "country": "Puerto Rico",
+            "male": "1802913",
+            "female": "1946096"
+        },
+        {
+            "country": "Qatar",
+            "male": "1330940",
+            "female": "427853"
+        },
+        {
+            "country": "Romania",
+            "male": "10428816",
+            "female": "11057555"
+        },
+        {
+            "country": "Russia",
+            "male": "66134540",
+            "female": "76823624"
+        },
+        {
+            "country": "Rwanda",
+            "male": "5215009",
+            "female": "5408996"
+        },
+        {
+            "country": "Reunion",
+            "male": "414457",
+            "female": "431611"
+        },
+        {
+            "country": "Saudi Arabia",
+            "male": "15196132",
+            "female": "12251954"
+        },
+        {
+            "country": "Senegal",
+            "male": "6166882",
+            "female": "6266846"
+        },
+        {
+            "country": "Serbia",
+            "male": "4877671",
+            "female": "4978551"
+        },
+        {
+            "country": "Sierra Leone",
+            "male": "2866092",
+            "female": "3001444"
+        },
+        {
+            "country": "Singapore",
+            "male": "2564443",
+            "female": "2521975"
+        },
+        {
+            "country": "Slovakia",
+            "male": "2655912",
+            "female": "2806207"
+        },
+        {
+            "country": "Slovenia",
+            "male": "992732",
+            "female": "1036948"
+        },
+        {
+            "country": "Solomon Islands",
+            "male": "278239",
+            "female": "259909"
+        },
+        {
+            "country": "Somalia",
+            "male": "4627111",
+            "female": "4703761"
+        },
+        {
+            "country": "South Africa",
+            "male": "24824300",
+            "female": "25308517"
+        },
+        {
+            "country": "Spain",
+            "male": "22748323",
+            "female": "23328666"
+        },
+        {
+            "country": "Sri Lanka",
+            "male": "10299114",
+            "female": "10560835"
+        },
+        {
+            "country": "Sudan",
+            "male": "21942731",
+            "female": "21609210"
+        },
+        {
+            "country": "Suriname",
+            "male": "263048",
+            "female": "261588"
+        },
+        {
+            "country": "Swaziland",
+            "male": "582995",
+            "female": "603061"
+        },
+        {
+            "country": "Sweden",
+            "male": "4671123",
+            "female": "4708564"
+        },
+        {
+            "country": "Switzerland",
+            "male": "3766951",
+            "female": "3897367"
+        },
+        {
+            "country": "Syrian Arab Republic",
+            "male": "10329861",
+            "female": "10080745"
+        },
+        {
+            "country": "Taiwan",
+            "male": "11747803",
+            "female": "11468433"
+        },
+        {
+            "country": "Tajikistan",
+            "male": "3384773",
+            "female": "3493864"
+        },
+        {
+            "country": "Tanzania United Republic of",
+            "male": "22397345",
+            "female": "22443881"
+        },
+        {
+            "country": "Thailand",
+            "male": "33972348",
+            "female": "35149886"
+        },
+        {
+            "country": "Timor-Leste",
+            "male": "573164",
+            "female": "551191"
+        },
+        {
+            "country": "Togo",
+            "male": "2985193",
+            "female": "3042605"
+        },
+        {
+            "country": "Trinidad and Tobago",
+            "male": "650085",
+            "female": "69138"
+        },
+        {
+            "country": "Tunisia",
+            "male": "5240068",
+            "female": "5240866"
+        },
+        {
+            "country": "Turkey",
+            "male": "36285250",
+            "female": "36467075"
+        },
+        {
+            "country": "Turkmenistan",
+            "male": "2482631",
+            "female": "2559364"
+        },
+        {
+            "country": "Uganda",
+            "male": "16703459",
+            "female": "16721224"
+        },
+        {
+            "country": "Ukraine",
+            "male": "20913685",
+            "female": "24534644"
+        },
+        {
+            "country": "United Arab Emirates",
+            "male": "5223594",
+            "female": "2288096"
+        },
+        {
+            "country": "United Kingdom",
+            "male": "30515530",
+            "female": "31520040"
+        },
+        {
+            "country": "United States",
+            "male": "153139563",
+            "female": "157244385"
+        },
+        {
+            "country": "Uruguay",
+            "male": "1625918",
+            "female": "1742868"
+        },
+        {
+            "country": "Uzbekistan",
+            "male": "13640744",
+            "female": "13803958"
+        },
+        {
+            "country": "Vanuatu",
+            "male": "122078",
+            "female": "117573"
+        },
+        {
+            "country": "Venezuela (Bolivarian Republic of)",
+            "male": "14541119",
+            "female": "14438738"
+        },
+        {
+            "country": "Viet Nam",
+            "male": "43417900",
+            "female": "44430545"
+        },
+        {
+            "country": "Yemen",
+            "male": "12103594",
+            "female": "11948920"
+        },
+        {
+            "country": "Zambia",
+            "male": "6559055",
+            "female": "6529515"
+        },
+        {
+            "country": "Zimbabwe",
+            "male": "6197195",
+            "female": "6374259"
+        }
+]
